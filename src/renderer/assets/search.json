@@ -1,0 +1,2056 @@
+{
+  "search_metadata": {
+    "id": "6253dce62d5b12c485f0879a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/315564c717b3cfb5/6253dce62d5b12c485f0879a.json",
+    "created_at": "2022-04-11 07:46:46 UTC",
+    "processed_at": "2022-04-11 07:46:46 UTC",
+    "google_url": "https://www.google.com/search?q=sim+racing+gear&oq=sim+racing+gear&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/315564c717b3cfb5/6253dce62d5b12c485f0879a.html",
+    "total_time_taken": 5.3
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "sim racing gear",
+    "location_requested": "United States",
+    "location_used": "United States",
+    "google_domain": "google.com",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "sim racing gear",
+    "total_results": 10800000,
+    "time_taken_displayed": 1.02
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=sim+racing+gear&num=100&tbm=isch&source=iu&ictx=1&vet=1&fir=pwxLkfJkvQ-i9M%252CJiBD0YoWJEjKrM%252C_%253B_DnjwEbtoAz4GM%252CGm9Q59yYXHvLaM%252C_%253BMRdfyjP4pNf48M%252C4Kz_qC6bZyhXtM%252C_%253BD0wzlKoVktMFHM%252CZ-UMjDMiFu1PpM%252C_%253B5FjLQJC_DhSwsM%252CunVnOUlgRMzR4M%252C_%253BpDHsVjxvBZBwmM%252CQKc2FDI3qgjvjM%252C_%253BWAc0FZHDYzKf4M%252C-NSvPR2vI0doAM%252C_%253B0psHb6VV7fucWM%252CJ77DbX--cx7pcM%252C_%253BD2bypTBZqEJk2M%252CN2BWvr0zdo2rYM%252C_%253BWlOirJN9JbJPMM%252CKS9AxEkeZ3ZGgM%252C_&usg=AI4_-kQitVhcozy8TXo-cIm6Egk6CdNiNg&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q9QF6BAguEAE#imgrc=pwxLkfJkvQ-i9M",
+      "source": "https://shop.gperformance.eu/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQloHVjvnhJKGjm8vsEDJ6xgPDVCKQRmrdL4qAlMMFk8A&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=sim+racing+gear&num=100&tbm=isch&source=iu&ictx=1&vet=1&fir=pwxLkfJkvQ-i9M%252CJiBD0YoWJEjKrM%252C_%253B_DnjwEbtoAz4GM%252CGm9Q59yYXHvLaM%252C_%253BMRdfyjP4pNf48M%252C4Kz_qC6bZyhXtM%252C_%253BD0wzlKoVktMFHM%252CZ-UMjDMiFu1PpM%252C_%253B5FjLQJC_DhSwsM%252CunVnOUlgRMzR4M%252C_%253BpDHsVjxvBZBwmM%252CQKc2FDI3qgjvjM%252C_%253BWAc0FZHDYzKf4M%252C-NSvPR2vI0doAM%252C_%253B0psHb6VV7fucWM%252CJ77DbX--cx7pcM%252C_%253BD2bypTBZqEJk2M%252CN2BWvr0zdo2rYM%252C_%253BWlOirJN9JbJPMM%252CKS9AxEkeZ3ZGgM%252C_&usg=AI4_-kQitVhcozy8TXo-cIm6Egk6CdNiNg&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q9QF6BQiYARAB#imgrc=_DnjwEbtoAz4GM",
+      "source": "https://nextlevelracing.com/products/next-level-racing-gttrack/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt4QbP2kWho_jEqs2MKaxKvDGfdApV0EqLLNQLKjzADQ&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=sim+racing+gear&num=100&tbm=isch&source=iu&ictx=1&vet=1&fir=pwxLkfJkvQ-i9M%252CJiBD0YoWJEjKrM%252C_%253B_DnjwEbtoAz4GM%252CGm9Q59yYXHvLaM%252C_%253BMRdfyjP4pNf48M%252C4Kz_qC6bZyhXtM%252C_%253BD0wzlKoVktMFHM%252CZ-UMjDMiFu1PpM%252C_%253B5FjLQJC_DhSwsM%252CunVnOUlgRMzR4M%252C_%253BpDHsVjxvBZBwmM%252CQKc2FDI3qgjvjM%252C_%253BWAc0FZHDYzKf4M%252C-NSvPR2vI0doAM%252C_%253B0psHb6VV7fucWM%252CJ77DbX--cx7pcM%252C_%253BD2bypTBZqEJk2M%252CN2BWvr0zdo2rYM%252C_%253BWlOirJN9JbJPMM%252CKS9AxEkeZ3ZGgM%252C_&usg=AI4_-kQitVhcozy8TXo-cIm6Egk6CdNiNg&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q9QF6BQiTARAB#imgrc=MRdfyjP4pNf48M",
+      "source": "https://www.esquire.com/lifestyle/cars/a34497432/best-virtual-racing-simulator-build-gear/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_tTbu9cKKfczwB7HqgXs1phPN5DHQ-O07SPRMAzazjg&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=sim+racing+gear&num=100&tbm=isch&source=iu&ictx=1&vet=1&fir=pwxLkfJkvQ-i9M%252CJiBD0YoWJEjKrM%252C_%253B_DnjwEbtoAz4GM%252CGm9Q59yYXHvLaM%252C_%253BMRdfyjP4pNf48M%252C4Kz_qC6bZyhXtM%252C_%253BD0wzlKoVktMFHM%252CZ-UMjDMiFu1PpM%252C_%253B5FjLQJC_DhSwsM%252CunVnOUlgRMzR4M%252C_%253BpDHsVjxvBZBwmM%252CQKc2FDI3qgjvjM%252C_%253BWAc0FZHDYzKf4M%252C-NSvPR2vI0doAM%252C_%253B0psHb6VV7fucWM%252CJ77DbX--cx7pcM%252C_%253BD2bypTBZqEJk2M%252CN2BWvr0zdo2rYM%252C_%253BWlOirJN9JbJPMM%252CKS9AxEkeZ3ZGgM%252C_&usg=AI4_-kQitVhcozy8TXo-cIm6Egk6CdNiNg&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q9QF6BQiLARAB#imgrc=D0wzlKoVktMFHM",
+      "source": "http://simracinghardware.com/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjS_iPchYdER-CVfreeUpa5FcaPmn-soa3_FOsdOrSOg&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=sim+racing+gear&num=100&tbm=isch&source=iu&ictx=1&vet=1&fir=pwxLkfJkvQ-i9M%252CJiBD0YoWJEjKrM%252C_%253B_DnjwEbtoAz4GM%252CGm9Q59yYXHvLaM%252C_%253BMRdfyjP4pNf48M%252C4Kz_qC6bZyhXtM%252C_%253BD0wzlKoVktMFHM%252CZ-UMjDMiFu1PpM%252C_%253B5FjLQJC_DhSwsM%252CunVnOUlgRMzR4M%252C_%253BpDHsVjxvBZBwmM%252CQKc2FDI3qgjvjM%252C_%253BWAc0FZHDYzKf4M%252C-NSvPR2vI0doAM%252C_%253B0psHb6VV7fucWM%252CJ77DbX--cx7pcM%252C_%253BD2bypTBZqEJk2M%252CN2BWvr0zdo2rYM%252C_%253BWlOirJN9JbJPMM%252CKS9AxEkeZ3ZGgM%252C_&usg=AI4_-kQitVhcozy8TXo-cIm6Egk6CdNiNg&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q9QF6BQiCARAB#imgrc=5FjLQJC_DhSwsM",
+      "source": "https://www.racedepartment.com/threads/sim-racing-gear-what-do-you-run-and-why.132762/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpyfVLj-zo2UQLrm2VYU_Q2hXf8QAN8X38UrUc6vcniw&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=sim+racing+gear&num=100&tbm=isch&source=iu&ictx=1&vet=1&fir=pwxLkfJkvQ-i9M%252CJiBD0YoWJEjKrM%252C_%253B_DnjwEbtoAz4GM%252CGm9Q59yYXHvLaM%252C_%253BMRdfyjP4pNf48M%252C4Kz_qC6bZyhXtM%252C_%253BD0wzlKoVktMFHM%252CZ-UMjDMiFu1PpM%252C_%253B5FjLQJC_DhSwsM%252CunVnOUlgRMzR4M%252C_%253BpDHsVjxvBZBwmM%252CQKc2FDI3qgjvjM%252C_%253BWAc0FZHDYzKf4M%252C-NSvPR2vI0doAM%252C_%253B0psHb6VV7fucWM%252CJ77DbX--cx7pcM%252C_%253BD2bypTBZqEJk2M%252CN2BWvr0zdo2rYM%252C_%253BWlOirJN9JbJPMM%252CKS9AxEkeZ3ZGgM%252C_&usg=AI4_-kQitVhcozy8TXo-cIm6Egk6CdNiNg&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q9QF6BAh9EAE#imgrc=pDHsVjxvBZBwmM",
+      "source": "https://www.racedepartment.com/news/have-your-say-%E2%80%93-whats-your-favourite-piece-of-sim-gear-right-now.231/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4gUXQYA8XOYvseLuDULkMlhw9AN4bFCrKizmtxvvaw&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=sim+racing+gear&num=100&tbm=isch&source=iu&ictx=1&vet=1&fir=pwxLkfJkvQ-i9M%252CJiBD0YoWJEjKrM%252C_%253B_DnjwEbtoAz4GM%252CGm9Q59yYXHvLaM%252C_%253BMRdfyjP4pNf48M%252C4Kz_qC6bZyhXtM%252C_%253BD0wzlKoVktMFHM%252CZ-UMjDMiFu1PpM%252C_%253B5FjLQJC_DhSwsM%252CunVnOUlgRMzR4M%252C_%253BpDHsVjxvBZBwmM%252CQKc2FDI3qgjvjM%252C_%253BWAc0FZHDYzKf4M%252C-NSvPR2vI0doAM%252C_%253B0psHb6VV7fucWM%252CJ77DbX--cx7pcM%252C_%253BD2bypTBZqEJk2M%252CN2BWvr0zdo2rYM%252C_%253BWlOirJN9JbJPMM%252CKS9AxEkeZ3ZGgM%252C_&usg=AI4_-kQitVhcozy8TXo-cIm6Egk6CdNiNg&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q9QF6BAh3EAE#imgrc=WAc0FZHDYzKf4M",
+      "source": "https://www.pinterest.com/ricmotech/ricmotech-hardware/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSo0lC0zdyv3dw5y1aiRkOfH8a177CzrBjavkrUsu2cA&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=sim+racing+gear&num=100&tbm=isch&source=iu&ictx=1&vet=1&fir=pwxLkfJkvQ-i9M%252CJiBD0YoWJEjKrM%252C_%253B_DnjwEbtoAz4GM%252CGm9Q59yYXHvLaM%252C_%253BMRdfyjP4pNf48M%252C4Kz_qC6bZyhXtM%252C_%253BD0wzlKoVktMFHM%252CZ-UMjDMiFu1PpM%252C_%253B5FjLQJC_DhSwsM%252CunVnOUlgRMzR4M%252C_%253BpDHsVjxvBZBwmM%252CQKc2FDI3qgjvjM%252C_%253BWAc0FZHDYzKf4M%252C-NSvPR2vI0doAM%252C_%253B0psHb6VV7fucWM%252CJ77DbX--cx7pcM%252C_%253BD2bypTBZqEJk2M%252CN2BWvr0zdo2rYM%252C_%253BWlOirJN9JbJPMM%252CKS9AxEkeZ3ZGgM%252C_&usg=AI4_-kQitVhcozy8TXo-cIm6Egk6CdNiNg&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q9QF6BAhtEAE#imgrc=0psHb6VV7fucWM",
+      "source": "https://www.asetek.com/blogs/a-beginners-guide-to-sim-racing/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWmq1engDKcvF3xeLqaOvSIpLSJTH0rrm9hWg7XvtVg&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=sim+racing+gear&num=100&tbm=isch&source=iu&ictx=1&vet=1&fir=pwxLkfJkvQ-i9M%252CJiBD0YoWJEjKrM%252C_%253B_DnjwEbtoAz4GM%252CGm9Q59yYXHvLaM%252C_%253BMRdfyjP4pNf48M%252C4Kz_qC6bZyhXtM%252C_%253BD0wzlKoVktMFHM%252CZ-UMjDMiFu1PpM%252C_%253B5FjLQJC_DhSwsM%252CunVnOUlgRMzR4M%252C_%253BpDHsVjxvBZBwmM%252CQKc2FDI3qgjvjM%252C_%253BWAc0FZHDYzKf4M%252C-NSvPR2vI0doAM%252C_%253B0psHb6VV7fucWM%252CJ77DbX--cx7pcM%252C_%253BD2bypTBZqEJk2M%252CN2BWvr0zdo2rYM%252C_%253BWlOirJN9JbJPMM%252CKS9AxEkeZ3ZGgM%252C_&usg=AI4_-kQitVhcozy8TXo-cIm6Egk6CdNiNg&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q9QF6BAhlEAE#imgrc=D2bypTBZqEJk2M",
+      "source": "https://www.roadtovr.com/vr-sim-racing-best-hardware-oculus-rift-htc-vive-four-kits-budget/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Vf_BZNF2GbAN5uP8Yi4SlUfJd5c95GeqroCeAybw7A&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=sim+racing+gear&num=100&tbm=isch&source=iu&ictx=1&vet=1&fir=pwxLkfJkvQ-i9M%252CJiBD0YoWJEjKrM%252C_%253B_DnjwEbtoAz4GM%252CGm9Q59yYXHvLaM%252C_%253BMRdfyjP4pNf48M%252C4Kz_qC6bZyhXtM%252C_%253BD0wzlKoVktMFHM%252CZ-UMjDMiFu1PpM%252C_%253B5FjLQJC_DhSwsM%252CunVnOUlgRMzR4M%252C_%253BpDHsVjxvBZBwmM%252CQKc2FDI3qgjvjM%252C_%253BWAc0FZHDYzKf4M%252C-NSvPR2vI0doAM%252C_%253B0psHb6VV7fucWM%252CJ77DbX--cx7pcM%252C_%253BD2bypTBZqEJk2M%252CN2BWvr0zdo2rYM%252C_%253BWlOirJN9JbJPMM%252CKS9AxEkeZ3ZGgM%252C_&usg=AI4_-kQitVhcozy8TXo-cIm6Egk6CdNiNg&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q9QF6BAhjEAE#imgrc=WlOirJN9JbJPMM",
+      "source": "https://www.youtube.com/watch?v=hlP115pUUxc",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQEKs5leUuS3NQEiToTt1BAOGzQMHIPEyPfTo8uLecQ&s"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Sim Racing Equipment: What Actually Makes A Difference?",
+      "link": "https://www.youtube.com/watch?v=uDRNuOEU9No",
+      "thumbnail": "https://i.ytimg.com/vi/uDRNuOEU9No/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mUxl2xvfw-8MU49QxSGjmjCVrYbQ",
+      "channel": "Chris Haye",
+      "duration": "11:10",
+      "platform": "YouTube",
+      "date": "1 Sept 2020",
+      "key_moments": [
+        {
+          "time": "02:24",
+          "title": "Pedals (Pedal Upgrades)",
+          "link": "https://www.youtube.com/watch?v=uDRNuOEU9No&t=144",
+          "percentage": 21
+        },
+        {
+          "time": "03:27",
+          "title": "Hydraulic Braking",
+          "link": "https://www.youtube.com/watch?v=uDRNuOEU9No&t=207",
+          "percentage": 31
+        },
+        {
+          "time": "04:47",
+          "title": "Rig Setup / Electronics",
+          "link": "https://www.youtube.com/watch?v=uDRNuOEU9No&t=287",
+          "percentage": 43
+        },
+        {
+          "time": "06:14",
+          "title": "Display / Screen",
+          "link": "https://www.youtube.com/watch?v=uDRNuOEU9No&t=374",
+          "percentage": 56
+        },
+        {
+          "time": "06:29",
+          "title": "IMAGE QUALITY, RESOLUTION AND FRAME RATES",
+          "link": "https://www.youtube.com/watch?v=uDRNuOEU9No&t=389",
+          "percentage": 58
+        },
+        {
+          "time": "07:09",
+          "title": "Wheelbase",
+          "link": "https://www.youtube.com/watch?v=uDRNuOEU9No&t=429",
+          "percentage": 64
+        },
+        {
+          "time": "08:02",
+          "title": "Audio",
+          "link": "https://www.youtube.com/watch?v=uDRNuOEU9No&t=482",
+          "percentage": 72
+        },
+        {
+          "time": "08:26",
+          "title": "Age - Pattern & Sequential Shifters",
+          "link": "https://www.youtube.com/watch?v=uDRNuOEU9No&t=506",
+          "percentage": 76
+        },
+        {
+          "time": "09:09",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=uDRNuOEU9No&t=549",
+          "percentage": 82
+        },
+        {
+          "time": "09:32",
+          "title": "TLDR / Conclusion",
+          "link": "https://www.youtube.com/watch?v=uDRNuOEU9No&t=572",
+          "percentage": 85
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "My TOP 5 FAVOURITE Sim Racing Gear in Q1 2021",
+      "link": "https://www.youtube.com/watch?v=CacdI-rlZIc",
+      "thumbnail": "https://i.ytimg.com/vi/CacdI-rlZIc/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mYyXBQW_gFP2vkwrPh7sMeXr5e3Q",
+      "channel": "Boosted Media",
+      "duration": "10:40",
+      "platform": "YouTube",
+      "date": "4 Feb 2021",
+      "key_moments": [
+        {
+          "time": "03:59",
+          "title": "Simcore UM1 Wheel Mount",
+          "link": "https://www.youtube.com/watch?v=CacdI-rlZIc&t=239",
+          "percentage": 37
+        },
+        {
+          "time": "06:06",
+          "title": "DIY Wind Simulator",
+          "link": "https://www.youtube.com/watch?v=CacdI-rlZIc&t=366",
+          "percentage": 57
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "2022 Sim Racing Budget Buyer's Guide",
+      "link": "https://www.youtube.com/watch?v=YkX5swjp6qQ",
+      "thumbnail": "https://i.ytimg.com/vi/YkX5swjp6qQ/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3m1o1cdCm5AXO4MR3PK0u2522QNTQ",
+      "channel": "random callsign",
+      "duration": "20:50",
+      "platform": "YouTube",
+      "date": "31 Aug 2021",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "intro and disclaimer",
+          "link": "https://www.youtube.com/watch?v=YkX5swjp6qQ&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUBxI-Di6ErR9lt8exUIo9BMgz1sPea6Xwv9MbVZUYg&s",
+          "percentage": 0
+        },
+        {
+          "time": "01:06",
+          "title": "second hand market choices",
+          "link": "https://www.youtube.com/watch?v=YkX5swjp6qQ&t=66",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrt_k1m1d2vKraVvNP_9bNZWS7jCeTDek-xSl1c1kOg&s",
+          "percentage": 5
+        },
+        {
+          "time": "04:06",
+          "title": "choices around £100",
+          "link": "https://www.youtube.com/watch?v=YkX5swjp6qQ&t=246",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oI79PWzMd9s8O9oI5BqBHHXhpjU1rPPAghRzcTOSXw&s",
+          "percentage": 20
+        },
+        {
+          "time": "05:30",
+          "title": "Under £250",
+          "link": "https://www.youtube.com/watch?v=YkX5swjp6qQ&t=330",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ufJzxJdKyE4HO-eETskC14PoC5OJ0_4mYyoLHyoIuw&s",
+          "percentage": 26
+        },
+        {
+          "time": "10:55",
+          "title": "Bundles over £500 under £1000",
+          "link": "https://www.youtube.com/watch?v=YkX5swjp6qQ&t=655",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaZV31UtlBTY4pcMeu8O2A3S1ww4LOSZXp2rkwNMTfQ&s",
+          "percentage": 52
+        },
+        {
+          "time": "13:20",
+          "title": "Wheel add-ons",
+          "link": "https://www.youtube.com/watch?v=YkX5swjp6qQ&t=800",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92Z-ffOg-fNZZvGkUGmZkQ4QCsVtou2_JApfWgoV40w&s",
+          "percentage": 64
+        },
+        {
+          "time": "14:27",
+          "title": "Pedals",
+          "link": "https://www.youtube.com/watch?v=YkX5swjp6qQ&t=867",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qOLFJ7LCVUahdZhiDK-Hu2KnWYEbUSVJ0wiJLs3IBg&s",
+          "percentage": 69
+        },
+        {
+          "time": "16:45",
+          "title": "wheelstands",
+          "link": "https://www.youtube.com/watch?v=YkX5swjp6qQ&t=1005",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLO2NLCWWChEQI_igS1DOgXc1tzpSz8pxaCY-0FFSdw&s",
+          "percentage": 80
+        },
+        {
+          "time": "18:31",
+          "title": "Simrigs",
+          "link": "https://www.youtube.com/watch?v=YkX5swjp6qQ&t=1111",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpSP8H-tRRU3kVG5wvrYY-m6N1BXonHZCGpwgWhWX_pg&s",
+          "percentage": 89
+        }
+      ]
+    }
+  ],
+  "inline_people_also_search_for": [
+    {
+      "title": "Sim racing wheel",
+      "items": [
+        {
+          "name": "Logitech G Driving Force G920",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JX_P0s9zvVdY4zkHc3wInADjTjxQYXTkJlXF&s=0",
+          "link": "https://www.google.com/search?num=100&q=Logitech+G+Driving+Force+G920&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyyKDPMzcnLNhIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xYiqBcZPzkvOMii0QMhXxZeVxBcWwPh56UYZyWUpOTB-dkVxhYlRjjlcf3aJuXl6XhZcf2VKjnFegSGMn1ZhYVxRVFwM4xdUmCZZpJgWwvhF5kAjzcwMfzEKBKP5oYGFcRGrrE9-emZJanKGgruCS1FmGUjWLb8oOVXB3dLI4BabJMMFoVnnty28Nnnf_xmxoS9P34_jPvj1f_6dCS_YGAGLXI6mKQEAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAB6BAg0EAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Logitech+G+Driving+Force+G920&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyyKDPMzcnLNhIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xYiqBcZPzkvOMii0QMhXxZeVxBcWwPh56UYZyWUpOTB-dkVxhYlRjjlcf3aJuXl6XhZcf2VKjnFegSGMn1ZhYVxRVFwM4xdUmCZZpJgWwvhF5kAjzcwMfzEKBKP5oYGFcRGrrE9-emZJanKGgruCS1FmGUjWLb8oOVXB3dLI4BabJMMFoVnnty28Nnnf_xmxoS9P34_jPvj1f_6dCS_YGAGLXI6mKQEAAA"
+        },
+        {
+          "name": "Logitech G29",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UpFqDC8B3cs2uFhE6sJaoRCEJiOUCnsN0ND7&s=0",
+          "link": "https://www.google.com/search?num=100&q=Logitech+G29&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzOS84yKLQoMhIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xQjRkmRRZpibk5cN48OMgMtXxZeVxBcWwPh56UYZyWUpOTB-dkVxhYlRjjlcf3aJuXl6XhZcf2VKjnFegSGMn1ZhYVxRVFwM4xdUmCZZpJgWwvhF5kAjzcwMfzEKBKP5oYGFcRErj09-emZJanKGgruR5S02SYYLQrPOb1t4bfK-_zNiQ1-evh_HffDr__w7E16wMQIAqkep7xgBAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAF6BAg0EAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Logitech+G29&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzOS84yKLQoMhIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xQjRkmRRZpibk5cN48OMgMtXxZeVxBcWwPh56UYZyWUpOTB-dkVxhYlRjjlcf3aJuXl6XhZcf2VKjnFegSGMn1ZhYVxRVFwM4xdUmCZZpJgWwvhF5kAjzcwMfzEKBKP5oYGFcRErj09-emZJanKGgruR5S02SYYLQrPOb1t4bfK-_zNiQ1-evh_HffDr__w7E16wMQIAqkep7xgBAAA"
+        },
+        {
+          "name": "Thrustmas... TMX Force Feedback",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrotdtjhHrlT_yvZ3rHTK4h7moMIutJ8TrO51z&s=0",
+          "link": "https://www.google.com/search?num=100&q=Thrustmaster+TMX+Force+Feedback&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyqii8riS8sMBIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xQjVYlFmmJuTlw3jJ-clZxkUWiDkoUbC-HnpRhnJZSk5MH52RXGFiVGOOVx_dom5eXpeFlx_ZUqOcV6BIYyfVmFhXFFUXAzjF1SYJlmkmBbC-EXmQCPNzAx_MQoEo_mhgYVxEat8SEZRaXFJbmJxSWqRQohvhIJbflFyqoJbampKUmJy9i02SYYLQrPOb1t4bfK-_zNiQ1-evh_HffDr__w7E16wMQIAEZhJxCsBAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAJ6BAg0EAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Thrustmaster+TMX+Force+Feedback&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyqii8riS8sMBIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xQjVYlFmmJuTlw3jJ-clZxkUWiDkoUbC-HnpRhnJZSk5MH52RXGFiVGOOVx_dom5eXpeFlx_ZUqOcV6BIYyfVmFhXFFUXAzjF1SYJlmkmBbC-EXmQCPNzAx_MQoEo_mhgYVxEat8SEZRaXFJbmJxSWqRQohvhIJbflFyqoJbampKUmJy9i02SYYLQrPOb1t4bfK-_zNiQ1-evh_HffDr__w7E16wMQIAEZhJxCsBAAA"
+        },
+        {
+          "name": "Logitech G923 TRUEFOR...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXWsLdZ39yiaZtMJGbCcxXM9OjrWFXfrPzlibAFSaTJ0E-ulf_92J&s=0",
+          "link": "https://www.google.com/search?num=100&q=Logitech+G923+TRUEFORCE&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMxLN8pILkvJMRIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xQjRkmRRZpibk5cN4yfnJWcZFFog5Kviy0riCwtgfJgVMH52RXGFiVGOOVx_dom5eXpeFlx_ZUqOcV6BIYyfVmFhXFFUXAzjF1SYJlmkmBbC-EXmQCPNzAx_MQoEo_mhgYVxEau4T356ZklqcoaCu6WRsUJIUKirm3-Qs-stNkmGC0Kzzm9beG3yvv8zYkNfnr4fx33w6__8OxNesDECACbpJUkjAQAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAN6BAg0EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Logitech+G923+TRUEFORCE&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMxLN8pILkvJMRIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xQjRkmRRZpibk5cN4yfnJWcZFFog5Kviy0riCwtgfJgVMH52RXGFiVGOOVx_dom5eXpeFlx_ZUqOcV6BIYyfVmFhXFFUXAzjF1SYJlmkmBbC-EXmQCPNzAx_MQoEo_mhgYVxEau4T356ZklqcoaCu6WRsUJIUKirm3-Qs-stNkmGC0Kzzm9beG3yvv8zYkNfnr4fx33w6__8OxNesDECACbpJUkjAQAA"
+        },
+        {
+          "name": "Logitech G923 Wheel and Pedal...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvcD8OB1S8qgRi90Tfb6f5RcbEl2kSJMdj-Xns&s=0",
+          "link": "https://www.google.com/search?num=100&q=Logitech+G923+Wheel+and+Pedals+Set&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMyuKK4wMcoxNxIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xQjRkmRRZpibk5cN4yfnJWcZFFog5Kviy0riCwtg_Lx0o4zkspQcGB9mJVx_dom5eXpeFlx_ZUqOcV6BIYyfVmFhXFFUXAzjF1SYJlmkmBbC-EXmQCPNzAx_MQoEo_mhgYVxEauST356ZklqcoaCu6WRsUI4SEIhMS9FISA1JTGnWCE4teQWmyTDBaFZ57ctvDZ53_8ZsaEvT9-P4z749X_-nQkv2BgBflhSvy4BAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAR6BAg0EAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Logitech+G923+Wheel+and+Pedals+Set&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMyuKK4wMcoxNxIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xQjRkmRRZpibk5cN4yfnJWcZFFog5Kviy0riCwtg_Lx0o4zkspQcGB9mJVx_dom5eXpeFlx_ZUqOcV6BIYyfVmFhXFFUXAzjF1SYJlmkmBbC-EXmQCPNzAx_MQoEo_mhgYVxEauST356ZklqcoaCu6WRsUI4SEIhMS9FISA1JTGnWCE4teQWmyTDBaFZ57ctvDZ53_8ZsaEvT9-P4z749X_-nQkv2BgBflhSvy4BAAA"
+        },
+        {
+          "name": "Thrustmas... T150 Force Feedback",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAFIOnRv6zivmle0FpRP0oeMj_1P15oXpPpCz&s=0",
+          "link": "https://www.google.com/search?num=100&q=Thrustmaster+T150+Force+Feedback&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzOLjE3T8_LMhIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xQjRkmRRZpibk5cN4yfnJWcZFFog5Kviy0riCwtg_Lx0o4zkspQcGD-7orjCxCjHHK4f6gS4_sqUHOO8AkMYP63CwriiqLgYxi-oME2ySDEthPGLzIFGmpkZ_mIUCEbzQwML4yJWhZCMotLiktzE4pLUIoUQQ1MDBbf8ouRUBbfU1JSkxOTsW2ySDBeEZp3ftvDa5H3_Z8SGvjx9P4774Nf_-XcmvGBjBADK9dXWLAEAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAV6BAg0EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Thrustmaster+T150+Force+Feedback&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzOLjE3T8_LMhIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xQjRkmRRZpibk5cN4yfnJWcZFFog5Kviy0riCwtg_Lx0o4zkspQcGD-7orjCxCjHHK4f6gS4_sqUHOO8AkMYP63CwriiqLgYxi-oME2ySDEthPGLzIFGmpkZ_mIUCEbzQwML4yJWhZCMotLiktzE4pLUIoUQQ1MDBbf8ouRUBbfU1JSkxOTsW2ySDBeEZp3ftvDa5H3_Z8SGvjx9P4774Nf_-XcmvGBjBADK9dXWLAEAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?num=100&q=Sim+racing+wheel&stick=H4sIAAAAAAAAAOOQMRIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xcirn65vaJhkUWaYm5OXDeMn5yVnGRRaIOSr4stK4gsLYPy8dKOM5LKUHBg_u6K4wsQoxxyuP7vE3Dw9LwuuvzIlxzivwBDGT6uwMK4oKi6G8QsqTJMsUkwLYfwic6CRZmaGvxgFgtH80MDCuIgVQ_QWmyTDBaFZ57ctvDZ53_8ZsaEvT9-P4z749X_-nQkv2BgBCDPoqg0BAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q4qYDegQINBAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Sim+racing+wheel&stick=H4sIAAAAAAAAAOOQMRIozsxVKEpMzsxLVyjPSE3NieJHEklPTSw6xcirn65vaJhkUWaYm5OXDeMn5yVnGRRaIOSr4stK4gsLYPy8dKOM5LKUHBg_u6K4wsQoxxyuP7vE3Dw9LwuuvzIlxzivwBDGT6uwMK4oKi6G8QsqTJMsUkwLYfwic6CRZmaGvxgFgtH80MDCuIgVQ_QWmyTDBaFZ57ctvDZ53_8ZsaEvT9-P4z749X_-nQkv2BgBCDPoqg0BAAA"
+    },
+    {
+      "title": "Sim racing cockpit",
+      "items": [
+        {
+          "name": "Cockpit Next Level Racing F...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthFGnFHHE7mj1xdOOMFW8BP7xSG634FDszMYP&s=0",
+          "link": "https://www.google.com/search?num=100&q=Cockpit+Next+Level+Racing+F-GT&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMzNsCzLKMhLMhIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFiKoJxs8yyc2rMCrOhvPzjCrKTMtyYfyCClMTy9ysEhi_0KI8Pi-lwAyuPjndyKIsrwzGz6g0NzLLziuA8dNMUwwzTMuqYPz0jJSMLOMS01-MQsEYrm5gYVzEKucM4Sj4pVaUKPiklqXmKARBlLnpuofcYpNkuCA067zD0yennaJ4n2rETdhZIXCv8Frmz5QXbIwAHXLxmh4BAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAB6BAg-EAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Cockpit+Next+Level+Racing+F-GT&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMzNsCzLKMhLMhIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFiKoJxs8yyc2rMCrOhvPzjCrKTMtyYfyCClMTy9ysEhi_0KI8Pi-lwAyuPjndyKIsrwzGz6g0NzLLziuA8dNMUwwzTMuqYPz0jJSMLOMS01-MQsEYrm5gYVzEKucM4Sj4pVaUKPiklqXmKARBlLnpuofcYpNkuCA067zD0yennaJ4n2rETdhZIXCv8Frmz5QXbIwAHXLxmh4BAAA"
+        },
+        {
+          "name": "Cockpit Next Level Racing F...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Pho4-z9e8R6_jh1CwyN8rS5Gj5z9jwzJUBah&s=0",
+          "link": "https://www.google.com/search?num=100&q=Cockpit+Next+Level+Racing+F-GT+Lite&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwyyc2rMCrONhIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFCNGUm2FZllGQlwTjwwyB8_OMKspMy3Jh_IIKUxPL3KwSGL_Qojw-L6XADK4-Od3IoiyvDMbPqDQ3MsvOK4Dx00xTDDNMy6pg_PSMlIws4xLTX4xCwRiubmBhXMSq7AzhKPilVpQo-KSWpeYoBEGUuem6hyj4ZJak3mKTZLggNOu8w9Mnp52ieJ9qxE3YWSFwr_Ba5s-UF2yMAC3ZL4YjAQAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAF6BAg-EAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Cockpit+Next+Level+Racing+F-GT+Lite&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwyyc2rMCrONhIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFCNGUm2FZllGQlwTjwwyB8_OMKspMy3Jh_IIKUxPL3KwSGL_Qojw-L6XADK4-Od3IoiyvDMbPqDQ3MsvOK4Dx00xTDDNMy6pg_PSMlIws4xLTX4xCwRiubmBhXMSq7AzhKPilVpQo-KSWpeYoBEGUuem6hyj4ZJak3mKTZLggNOu8w9Mnp52ieJ9qxE3YWSFwr_Ba5s-UF2yMAC3ZL4YjAQAA"
+        },
+        {
+          "name": "Cockpit Next Level Racing GT...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYlz3J7Ygyl2YJ856RUF7rHaYoIe249h2bzA7X&s=0",
+          "link": "https://www.google.com/search?num=100&q=Cockpit+Next+Level+Racing+GTtrack&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMzKM6ooMy3LNRIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFCNGUm2FZllGQlwTjZ5nk5lUYFWfD-VBDYfyCClMTy9ysEhi_0KI8Pi-lwAyuPjndyKIsrwzGz6g0NzLLziuA8dNMUwwzTMuqYPz0jJSMLOMS01-MQsEYrm5gYVzEqugM4Sj4pVaUKPiklqXmKARBlLmHlAA1ZN9ik2S4IDTrvMPTJ6edonifasRN2FkhcK_wWubPlBdsjADI6hAHIQEAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAJ6BAg-EAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Cockpit+Next+Level+Racing+GTtrack&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMzKM6ooMy3LNRIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFCNGUm2FZllGQlwTjZ5nk5lUYFWfD-VBDYfyCClMTy9ysEhi_0KI8Pi-lwAyuPjndyKIsrwzGz6g0NzLLziuA8dNMUwwzTMuqYPz0jJSMLOMS01-MQsEYrm5gYVzEqugM4Sj4pVaUKPiklqXmKARBlLmHlAA1ZN9ik2S4IDTrvMPTJ6edonifasRN2FkhcK_wWubPlBdsjADI6hAHIQEAAA"
+        },
+        {
+          "name": "Challenger Cockpit Next Level...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCw0mm6XOZnU3uRtPwoTuT8mfG0nnheB-2caR&s=0",
+          "link": "https://www.google.com/search?num=100&q=Challenger+Cockpit+Next+Level+Racing&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCyoMDWxzM0qMRIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFCNGUm2FZllGQlwTjZ5nk5lUYFWfD-XlGFWWmZbkwPswSGL_Qojw-L6XADK4-Od3IoiyvDMbPqDQ3MsvOK4Dx00xTDDNMy6pg_PSMlIws4xLTX4xCwRiubmBhXMSq4pyRmJOTmpeeWqTgDBFX8EutKFHwSS1LzVEIAuu4xSbJcEFo1nmHp09OO0XxPtWIm7CzQuBe4bXMnykv2BgBNQ5lkCQBAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAN6BAg-EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Challenger+Cockpit+Next+Level+Racing&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCyoMDWxzM0qMRIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFCNGUm2FZllGQlwTjZ5nk5lUYFWfD-XlGFWWmZbkwPswSGL_Qojw-L6XADK4-Od3IoiyvDMbPqDQ3MsvOK4Dx00xTDDNMy6pg_PSMlIws4xLTX4xCwRiubmBhXMSq4pyRmJOTmpeeWqTgDBFX8EutKFHwSS1LzVEIAuu4xSbJcEFo1nmHp09OO0XxPtWIm7CzQuBe4bXMnykv2BgBNQ5lkCQBAAA"
+        },
+        {
+          "name": "Next Level Racing F‑GT Elite...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo41u5-oLI9r7h50z-V1bX5Ja5axDtn8Y-5Y2F&s=0",
+          "link": "https://www.google.com/search?num=100&q=Next+Level+Racing+F-GT+Elite+Cockpit&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCy0KI_PSykwMxIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFCNGUm2FZllGQlwTjZ5nk5lUYFWfD-XlGFWWmZbkwfkGFqYllblYJjA-zFK4-Od3IoiyvDMbPqDQ3MsvOK4Dx00xTDDNMy6pg_PSMlIws4xLTX4xCwRiubmBhXMSq4pdaUaLgk1qWmqMQBJF203UPUXDNySxJVXCGqLzFJslwQWjWeYenT047RfE-1YibsLNC4F7htcyfKS_YGAFskXRJJAEAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAR6BAg-EAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Next+Level+Racing+F-GT+Elite+Cockpit&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCy0KI_PSykwMxIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFCNGUm2FZllGQlwTjZ5nk5lUYFWfD-XlGFWWmZbkwfkGFqYllblYJjA-zFK4-Od3IoiyvDMbPqDQ3MsvOK4Dx00xTDDNMy6pg_PSMlIws4xLTX4xCwRiubmBhXMSq4pdaUaLgk1qWmqMQBJF203UPUXDNySxJVXCGqLzFJslwQWjWeYenT047RfE-1YibsLNC4F7htcyfKS_YGAFskXRJJAEAAA"
+        },
+        {
+          "name": "Vivo Racing Simulator Cockpit wit...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCv9Oh0OV1L6e03u6Y8rAOzvxUASZHHweQYe-&s=0",
+          "link": "https://www.google.com/search?num=100&q=Vivo+Racing+Simulator+Cockpit+with+Wheel+Stand+and+Reclining+Seat&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMxKTjeyKMsrMxIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFCNGUm2FZllGQlwTjZ5nk5lUYFWfD-XlGFWWmZbkwfkGFqYllblYJjF9oUR6fl1JgBlcPdQSMn1FpbmSWnVcA46eZphhmmJZVwfjpGSkZWcYlpr8YhYIxXN3AwriI1TEssyxfIQgiAVRTmpNYkl-k4AxRolCeWZKhEJ6RmpqjEFySmJeiAMJBqck5mXlgDamJJbfYJBkuCM067_D0yWmnKN6nGnETdlYI3Cu8lvkz5QUbIwCXXUPmQQEAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAV6BAg-EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Vivo+Racing+Simulator+Cockpit+with+Wheel+Stand+and+Reclining+Seat&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMxKTjeyKMsrMxIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFCNGUm2FZllGQlwTjZ5nk5lUYFWfD-XlGFWWmZbkwfkGFqYllblYJjF9oUR6fl1JgBlcPdQSMn1FpbmSWnVcA46eZphhmmJZVwfjpGSkZWcYlpr8YhYIxXN3AwriI1TEssyxfIQgiAVRTmpNYkl-k4AxRolCeWZKhEJ6RmpqjEFySmJeiAMJBqck5mXlgDamJJbfYJBkuCM067_D0yWmnKN6nGnETdlYI3Cu8lvkz5QUbIwCXXUPmQQEAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?num=100&q=Sim+racing+cockpit&stick=H4sIAAAAAAAAAOOQMRIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFyKufrm9omJthWZZRkJcE42eZ5OZVGBVnw_l5RhVlpmW5MH5BhamJZW5WCYxfaFEen5dSYAZXn5xuZFGWVwbjZ1SaG5ll5xXA-GmmKYYZpmVVMH56RkpGlnGJ6S9GoWAMVzewMC5ixSJ-i02S4YLQrPMOT5-cdorifaoRN2FnhcC9wmuZP1NesDECAKyNEfoDAQAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q4qYDegQIPhAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Sim+racing+cockpit&stick=H4sIAAAAAAAAAOOQMRIqzsxVKEpMzsxLV0jOT84uyCyJ4kcSS09NLDrFyKufrm9omJthWZZRkJcE42eZ5OZVGBVnw_l5RhVlpmW5MH5BhamJZW5WCYxfaFEen5dSYAZXn5xuZFGWVwbjZ1SaG5ll5xXA-GmmKYYZpmVVMH56RkpGlnGJ6S9GoWAMVzewMC5ixSJ-i02S4YLQrPMOT5-cdorifaoRN2FnhcC9wmuZP1NesDECAKyNEfoDAQAA"
+    },
+    {
+      "title": "Sim racing games",
+      "items": [
+        {
+          "name": "iRacing",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2xHt2dGio2saLSF5kNpksnuYQYY-coAnvWfSF3J1XQTS2nW76bi8m&s=0",
+          "link": "https://www.google.com/search?num=100&q=iRacing&stick=H4sIAAAAAAAAAOOQUeLSz9U3yK7MLavIMxIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFiKT-FCOvfrq-oWFGcka8cXlZNlQyySyrvKwYyim2KDM2KIapTDfLyzKpjE-D8ZPzUkyTTeONoYqzLHOLKspgkllpZUY5KeXppxh5QHzjqgJTo_T0wl-MAsFozmxgYVzEyp4ZBBa6xSbJcEFo1nnJ1ZY_alznNSqVW_rbWKkXShly_QYAYeCzqPAAAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAB6BAg8EAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=iRacing&stick=H4sIAAAAAAAAAOOQUeLSz9U3yK7MLavIMxIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFiKT-FCOvfrq-oWFGcka8cXlZNlQyySyrvKwYyim2KDM2KIapTDfLyzKpjE-D8ZPzUkyTTeONoYqzLHOLKspgkllpZUY5KeXppxh5QHzjqgJTo_T0wl-MAsFozmxgYVzEyp4ZBBa6xSbJcEFo1nnJ1ZY_alznNSqVW_rbWKkXShly_QYAYeCzqPAAAAA"
+        },
+        {
+          "name": "Assetto Corsa Competizi...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_lJoDz5Xwxz-EvJlnpkab_HEw_qSqarNrgxCU&s=0",
+          "link": "https://www.google.com/search?num=100&q=Assetto+Corsa+Competizione&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMxIzog3Li_LNhIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFyKWfq2-QXZlbVpF3ihFVP1QyySyrvKwYyim2KDM2KIapTDfLyzKpjE-D8ZPzUkyTTeONoYqzLHOLKspgkllpZUY5KeXppxh5QHzjqgJTo_T0wl-MAsFozmxgYVzEKuVYXJxaUpKv4JxfVJwIJHMLUksyqzLz81JvsUkyXBCadV5yteWPGtd5jUrllv42VuqFUoZcvwF9UVnmBgEAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAF6BAg8EAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Assetto+Corsa+Competizione&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMxIzog3Li_LNhIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFyKWfq2-QXZlbVpF3ihFVP1QyySyrvKwYyim2KDM2KIapTDfLyzKpjE-D8ZPzUkyTTeONoYqzLHOLKspgkllpZUY5KeXppxh5QHzjqgJTo_T0wl-MAsFozmxgYVzEKuVYXJxaUpKv4JxfVJwIJHMLUksyqzLz81JvsUkyXBCadV5yteWPGtd5jUrllv42VuqFUoZcvwF9UVnmBgEAAA"
+        },
+        {
+          "name": "rFactor 2",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MQ7-y1eEckLJJTR17sKdXQ0IkBR_05GvWbEGoePfjl1I9NqkT-_P&s=0",
+          "link": "https://www.google.com/search?num=100&q=rFactor+2&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDLLKi8rNhIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFCFafXZlbVpF3ipFXP13f0DAjOSPeuLwsGyoJMQzKKbYoMzYohqlMN8vLMqmMT4Pxk_NSTJNN442hirMsc4sqymCSWWllRjkp5emnGHlAfOOqAlOj9PTCX4wCwWjObGBhXMTKWeSWmFySX6RgdItNkuGC0Kzzkqstf9S4zmtUKrf0t7FSL5Qy5PoNABISoL3yAAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAJ6BAg8EAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=rFactor+2&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDLLKi8rNhIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFCFafXZlbVpF3ipFXP13f0DAjOSPeuLwsGyoJMQzKKbYoMzYohqlMN8vLMqmMT4Pxk_NSTJNN442hirMsc4sqymCSWWllRjkp5emnGHlAfOOqAlOj9PTCX4wCwWjObGBhXMTKWeSWmFySX6RgdItNkuGC0Kzzkqstf9S4zmtUKrf0t7FSL5Qy5PoNABISoL3yAAAA"
+        },
+        {
+          "name": "Assetto Corsa",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpzVQozpYcsYmfozTyclW6qVj18M3DSa5VntFzuafQolyaKMT7qDaT&s=0",
+          "link": "https://www.google.com/search?num=100&q=Assetto+Corsa&stick=H4sIAAAAAAAAAOOQUeLSz9U3KLYoMzYoNhIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFCFafXZlbVpF3ipFXP13f0DAjOSPeuLwsGyqZZJZVXlYM5UBMhqlMN8vLMqmMT4Pxk_NSTJNN442hirMsc4sqymCSWWllRjkp5emnGHlAfOOqAlOj9PTCX4wCwWjObGBhXMTK61hcnFpSkq_gnF9UnHiLTZLhgtCs85KrLX_UuM5rVCq39LexUi-UMuT6DQC8EXBM9gAAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAN6BAg8EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Assetto+Corsa&stick=H4sIAAAAAAAAAOOQUeLSz9U3KLYoMzYoNhIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFCFafXZlbVpF3ipFXP13f0DAjOSPeuLwsGyqZZJZVXlYM5UBMhqlMN8vLMqmMT4Pxk_NSTJNN442hirMsc4sqymCSWWllRjkp5emnGHlAfOOqAlOj9PTCX4wCwWjObGBhXMTK61hcnFpSkq_gnF9UnHiLTZLhgtCs85KrLX_UuM5rVCq39LexUi-UMuT6DQC8EXBM9gAAAA"
+        },
+        {
+          "name": "Project CARS 2",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyNd0mhFHseOeM-3x3l2sXI4x5fhEVni0laVEtD5HDlyD0xsOKVI&s=0",
+          "link": "https://www.google.com/search?num=100&q=Project+CARS+2&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw3y8syqYxPMxIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFyKWfq2-QXZlbVpF3ihGiPyM5I964vCwbKplkllVeVgzlFFuUGRsUw1TCbILxk_NSTJNN442hirMsc4sqymCSWWllRjkp5emnGHlAfOOqAlOj9PTCX4wCwWjObGBhXMTKF1CUn5WaXKLg7BgUrGB0i02S4YLQrPOSqy1_1LjOa1Qqt_S3sVIvlDLk-g0ANqzgcvoAAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAR6BAg8EAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Project+CARS+2&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw3y8syqYxPMxIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFyKWfq2-QXZlbVpF3ihGiPyM5I964vCwbKplkllVeVgzlFFuUGRsUw1TCbILxk_NSTJNN442hirMsc4sqymCSWWllRjkp5emnGHlAfOOqAlOj9PTCX4wCwWjObGBhXMTKF1CUn5WaXKLg7BgUrGB0i02S4YLQrPOSqy1_1LjOa1Qqt_S3sVIvlDLk-g0ANqzgcvoAAAA"
+        },
+        {
+          "name": "RaceRoom",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9p1ZweklwvKe9o-iFiA2CS04EhzYxtQivvrYMhiE9ghiKU3Yxunk3&s=0",
+          "link": "https://www.google.com/search?num=100&q=RaceRoom&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzOSzFNNo03NhIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFyKWfq2-QXZlbVpF3ihGiPyM5I964vCwbKplkllVeVgzlFFuUGRsUw1Smm-VlmVTGp8H4MJuhirMsc4sqymCSWWllRjkp5emnGHlAfOOqAlOj9PTCX4wCwWjObGBhXMTKEZSYnBqUn597i02S4YLQrPOSqy1_1LjOa1Qqt_S3sVIvlDLk-g0AplPhH_QAAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Qs9oBKAV6BAg8EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=RaceRoom&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzOSzFNNo03NhIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFyKWfq2-QXZlbVpF3ihGiPyM5I964vCwbKplkllVeVgzlFFuUGRsUw1Smm-VlmVTGp8H4MJuhirMsc4sqymCSWWllRjkp5emnGHlAfOOqAlOj9PTCX4wCwWjObGBhXMTKEZSYnBqUn597i02S4YLQrPOSqy1_1LjOa1Qqt_S3sVIvlDLk-g0AplPhH_QAAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?num=100&q=Sim+racing+games&stick=H4sIAAAAAAAAAOOQMRIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFyKWfq2-QXZlbVpF3ipFXP13f0DAjOSPeuLwsGyqZZJZVXlYM5RRblBkbFMNUppvlZZlUxqfB-Ml5KabJpvHGUMVZlrlFFWUwyay0MqOclPL0U4w8IL5xVYGpUXp64S9GgWA0ZzawMC5ixRC9xSbJcEFo1nnJ1ZY_alznNSqVW_rbWKkXShly_QYAZiEC7u0AAAA&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q4qYDegQIPBAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=Sim+racing+games&stick=H4sIAAAAAAAAAOOQMRIozsxVKEpMzsxLV0hPzE0tjuJHFklNLDrFyKWfq2-QXZlbVpF3ipFXP13f0DAjOSPeuLwsGyqZZJZVXlYM5RRblBkbFMNUppvlZZlUxqfB-Ml5KabJpvHGUMVZlrlFFWUwyay0MqOclPL0U4w8IL5xVYGpUXp64S9GgWA0ZzawMC5ixRC9xSbJcEFo1nnJ1ZY_alznNSqVW_rbWKkXShly_QYAZiEC7u0AAAA"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "High-Performance Sim-Racing Equipment & Gear ...",
+      "link": "https://www.ricmotech.com/sim-racing-products",
+      "displayed_link": "https://www.ricmotech.com › sim-racing-products",
+      "thumbnail": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456f453cee15be13d8ea23afd31ee51b74e.jpeg",
+      "snippet": "Ricmotech specializes in performance sim-racing equipment that creates truly immersive experiences. Shop our expansive collection of sim-racing gear today!",
+      "about_this_result": {
+        "source": {
+          "description": "ricmotech.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456afb7f353ef813252b8e6236c27bd481dba290a32cdb6ecdc1c8956a585a6bfaf.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ricmotech.com/sim-racing-products&tbm=ilp&ilps=AC47Oe-7mRr0vWfjCWxOSwNra_4AASirTw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jKUvdsebqdoJ:https://www.ricmotech.com/sim-racing-products+&cd=1&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 2,
+      "title": "Sim Racing | Demon Tweeks",
+      "link": "https://www.demon-tweeks.com/uk/motorsport/sim-racing/",
+      "displayed_link": "https://www.demon-tweeks.com › motorsport › sim-raci...",
+      "snippet": "Sim Racing ; demontweeks_2005223. Heusinkveld Engineering Sim Racing Sprint Pedals · £116.34 · £96.95 ; demontweeks_1369442 · Sparco Hypergrip Gaming Gloves. £41.46 ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Apparel",
+            "link": "https://www.demon-tweeks.com/uk/motorsport/sim-racing/sim-racing-apparel/"
+          },
+          {
+            "title": "Steering Wheel Bases & Rims",
+            "link": "https://www.demon-tweeks.com/uk/motorsport/sim-racing/sim-racing-steering-wheel-bases-rims/"
+          },
+          {
+            "title": "Cockpits, Seats & Accessories",
+            "link": "https://www.demon-tweeks.com/uk/motorsport/sim-racing/sim-racing-cockpits-seats-accessories/"
+          },
+          {
+            "title": "Pedals",
+            "link": "https://www.demon-tweeks.com/uk/motorsport/sim-racing/sim-racing-pedals/"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "demon-tweeks.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484562efef29d440ee3870476aab4a3c80900876826a2136bab9deefe8bf145333daa.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.demon-tweeks.com/uk/motorsport/sim-racing/&tbm=ilp&ilps=AC47Oe-kFaaSgMaLu3PR0Kb7Qnx9nWe9Hg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B4nwAqt80aUJ:https://www.demon-tweeks.com/uk/motorsport/sim-racing/+&cd=2&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 3,
+      "title": "Upshift Store Sim Racing Store—Cockpits, Wheels, Chairs ...",
+      "link": "https://www.upshiftstore.co.uk/",
+      "displayed_link": "https://www.upshiftstore.co.uk",
+      "snippet": "Upshift Store is the Online Sim Racing Store! We sell the Best Sim Racing equipment, including Sim Racing Cockpit Rigs, Racing Wheels, Gaming Chairs, ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Sim Racing Pedals",
+            "link": "https://www.upshiftstore.co.uk/collections/sim-racing-pedals"
+          },
+          {
+            "title": "Sim Racing Seat",
+            "link": "https://www.upshiftstore.co.uk/collections/sim-racing-seats"
+          },
+          {
+            "title": "Sim Racing Showroom",
+            "link": "https://www.upshiftstore.co.uk/pages/sim-racing-showroom"
+          },
+          {
+            "title": "Sim Rigs",
+            "link": "https://www.upshiftstore.co.uk/collections/sim-racing-cockpits"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "upshiftstore.co.uk was first indexed by Google in July 2018",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484564da619a565c6f7670d74e019ff43d039ab5e899e038f6c4a69f985097f4da990.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.upshiftstore.co.uk/&tbm=ilp&ilps=AC47Oe87nLV6f0Ss0sR4IMtMkQ53k-WJ9A",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XLnO2oTvtP4J:https://www.upshiftstore.co.uk/+&cd=3&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 4,
+      "title": "Sim Racing and Driving Simulation Gear | Logitech G UK",
+      "link": "https://www.logitechg.com/en-gb/products/driving.html",
+      "displayed_link": "https://www.logitechg.com › en-gb › products › driving",
+      "snippet": "Shop Logitech G top rated sim racing gear for Xbox, PC & Playstation. Force Feedback Racing Wheel, Durable Pedals and H Pattern Shifter with reverse.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "G923 trueforce",
+            "link": "https://www.logitechg.com/en-gb/products/driving/g923-trueforce-sim-racing-wheel.html"
+          },
+          {
+            "title": "G920+G29",
+            "link": "https://www.logitechg.com/en-gb/products/driving/driving-force-racing-wheel.html"
+          },
+          {
+            "title": "Logitech Driving Force Shifter",
+            "link": "https://www.logitechg.com/en-gb/products/driving/driving-force-shifter.html"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Logitech International S.A. is a Swiss manufacturer of computer peripherals and software, with headquarters in Lausanne, Switzerland and Newark, California.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Logitech",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484561075416cf3d4f6913b8d9794461e46fcacd147a7f9aaa2fc35374a66b8cd8ac1.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.logitechg.com/en-gb/products/driving.html&tbm=ilp&ilps=AC47Oe-gBXyBQN2agIWLU19RIOYQq1sg_w",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ejWTRFhf64EJ:https://www.logitechg.com/en-gb/products/driving.html+&cd=4&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 5,
+      "title": "Simucube | Racing Simulators | Sim Racing",
+      "link": "https://simtechracing.co.uk/",
+      "displayed_link": "https://simtechracing.co.uk",
+      "thumbnail": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484567ad5be23b1f9dba9ae021f54431748aa.jpeg",
+      "snippet": "Supplier of advanced race and flight simulation systems, motion platforms, pc's and other quality hardware inc simucube direct drive motors,",
+      "about_this_result": {
+        "source": {
+          "description": "simtechracing.co.uk was first indexed by Google in April 2016",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456bfae9484db490f9721b89b5fff830e927253b04f9334e74442b7066820194a0e.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://simtechracing.co.uk/&tbm=ilp&ilps=AC47Oe8BQXVEcJ1eIRq-w0QT0-y5EvhpxA"
+    },
+    {
+      "position": 6,
+      "title": "Sim Racing Hardware | Global Shipping | Simplace.co",
+      "link": "https://www.simplace.co/sim-racing-hardware/",
+      "displayed_link": "https://www.simplace.co › sim-racing-hardware",
+      "thumbnail": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484564e2a5874ead68bec75d6c1f25a550db0.jpeg",
+      "snippet": "Are you looking for sim racing equipment to play your favourite racing games with? Then you have arrived at the right place! Read more.",
+      "about_this_result": {
+        "source": {
+          "description": "simplace.co was first indexed by Google in February 2020",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484569801f225ffacb7ae31a5886fb311ca90df07d25e2e57caaf3ebfb67b27167f69.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.simplace.co/sim-racing-hardware/&tbm=ilp&ilps=AC47Oe-7UTF72GPZp-WB8r_yWJEjKM2Oqg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UIoG8xSSjzgJ:https://www.simplace.co/sim-racing-hardware/+&cd=6&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 7,
+      "title": "Digital-Motorsports.com: Sim Racing Store | Driver Training ...",
+      "link": "https://digital-motorsports.com/",
+      "displayed_link": "https://digital-motorsports.com",
+      "snippet": "Digital-Motorsports.com serves the global driver simulation market & are Europe's leading one-stop sim racing store. We are official distributors for ...",
+      "about_this_result": {
+        "source": {
+          "description": "digital-motorsports.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456c6e47e7206baff6b2b18fb1927eefa7235f796420f0e8210c97239893d2bcdd8.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://digital-motorsports.com/&tbm=ilp&ilps=AC47Oe-T7nugrTMfXTqK3HLmBvpvSkv5IA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A8cWMQclZEAJ:https://digital-motorsports.com/+&cd=7&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 8,
+      "title": "Professional sim racing hardware｜G-Performance",
+      "link": "https://shop.gperformance.eu/",
+      "displayed_link": "https://shop.gperformance.eu",
+      "snippet": "G-Performance is a Worldwide supplier of sim racing equipment supporting beginner, intermediate and Professional sim racers alike.",
+      "about_this_result": {
+        "source": {
+          "description": "shop.gperformance.eu was first indexed by Google in April 2014",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484568be20163c8f446cb774a087e34be39759aac320f130dbc9f4f3af95294b1a183.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://shop.gperformance.eu/&tbm=ilp&ilps=AC47Oe-7m7IBkHzQs4YUX7nviU4PhrNtUg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JiBD0YoWJEgJ:https://shop.gperformance.eu/+&cd=8&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 9,
+      "title": "Sim Racing Accessories | Etsy UK",
+      "link": "https://www.etsy.com/uk/market/sim_racing_accessories",
+      "displayed_link": "https://www.etsy.com › market › sim_racing_accessories",
+      "snippet": "Check out our sim racing accessories selection for the very best in unique ... Sim Racing Flag Gear Spotter Shift Light Display PC SimHUB Fanatec Simucube.",
+      "about_this_result": {
+        "source": {
+          "description": "Etsy, Inc. is an American e-commerce company focused on handmade or vintage items and craft supplies. These items fall under a wide range of categories, including jewelry, bags, clothing, home décor and furniture, toys, art, as well as craft supplies and tools. Items described as vintage must be at least 20 years old.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Etsy",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484564619e2f738a291af1555d7e35e6c9227d674fcdc82e98a4043ecddf06bdcd412.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.etsy.com/uk/market/sim_racing_accessories&tbm=ilp&ilps=AC47Oe-nFTKzP6zidNcabdf3laMK4V4msg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3gXhPVsWV2kJ:https://www.etsy.com/uk/market/sim_racing_accessories+&cd=9&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 10,
+      "title": "Sim Racing - Murray Motorsport",
+      "link": "https://www.murraymotorsport.com/sim-racing",
+      "displayed_link": "https://www.murraymotorsport.com › sim-racing",
+      "snippet": "Now stocking Cube Controls Sim Wheels! · NEW AGE of Sim Equipment is here.",
+      "about_this_result": {
+        "source": {
+          "description": "murraymotorsport.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456e541e72d72c5097893c3c85938e7841bc9421d431f39290daf26670ec0f2c7fd.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.murraymotorsport.com/sim-racing&tbm=ilp&ilps=AC47Oe_Jv0smZe6ybgrNhspe-qWGMmPqcw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4RrZk9Vl1aAJ:https://www.murraymotorsport.com/sim-racing+&cd=13&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 11,
+      "title": "SIM-LAB: Home",
+      "link": "http://sim-lab.eu/",
+      "displayed_link": "http://sim-lab.eu",
+      "snippet": "With the P1-X sim racing cockpit, we have set the benchmark for what a sim racing setup should be. With an incredibly rigid ... Racing Equipment. View all.",
+      "about_this_result": {
+        "source": {
+          "description": "sim-lab.eu was first indexed by Google in July 2015",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456ea0ff231fcaa39335c24e5ae1fb65b61239ca4a354d4b2802781be6c449b2712c9c3914dda4488cb.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://sim-lab.eu/&tbm=ilp&ilps=AC47Oe-ikxmlhJ5D8EnTTzBbmyjDjvtsPw",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:yp0Ud57kbK4J:sim-lab.eu/+&cd=14&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 12,
+      "title": "Sim Race Reviews - Expert Sim Racing Gear Reviews",
+      "link": "https://simracereviews.com/",
+      "displayed_link": "https://simracereviews.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6w3zRlf8VMRauL0SiAZBY4srzpC1M5Rl6Gx74hGQw_SHyhvcJ6na&usqp=CAE&s",
+      "snippet": "Home to the most in-depth expert sim racing wheel and gear reviews. All sim racing gear is reviewed by expert Esports sim racers.",
+      "about_this_result": {
+        "source": {
+          "description": "simracereviews.com was first indexed by Google in May 2020",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845615cade409b0a99331d9144f484eeac47c222ffba17c0191b8e66654247d8d30e3dcd1f54f05a04a2.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://simracereviews.com/&tbm=ilp&ilps=AC47Oe8CmyYTme3_zxzhKerx2ts0Z_oe1w",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Bhg4nJkEM-gJ:https://simracereviews.com/+&cd=15&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 13,
+      "title": "Sim Racing Gear Reviews at simracingcockpit.com",
+      "link": "https://simracingcockpit.com/category/reviews/",
+      "displayed_link": "https://simracingcockpit.com › category › reviews",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcc8Nm_iqMngW49VCCp6bKtE_uI-hffeLASIy1R9EP9FmVYjzr4Rxm&usqp=CAE&s",
+      "date": "26 Oct 2021",
+      "snippet": "Read all of our sim racing equipment reviews at simracingcockpit - expect unbiased opinion and an evaluation from a racing driver's perspective...",
+      "about_this_result": {
+        "source": {
+          "description": "simracingcockpit.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456b858e2977e13c2d3024bbcdebf991169802da6acfa8c6a4ac72f68891376b07dd9378a7feae330ac.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://simracingcockpit.com/category/reviews/&tbm=ilp&ilps=AC47Oe8zmRJ4-5cTJO8Czwi4u04dp1fytg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vnQbtpFHMDQJ:https://simracingcockpit.com/category/reviews/+&cd=16&hl=en&ct=clnk&gl=uk",
+      "related_results": [
+        {
+          "position": 1,
+          "title": "Sim Racing Cockpit's Beginner's Guide to Sim Racing",
+          "link": "https://simracingcockpit.com/sim-racing-guide/",
+          "displayed_link": "https://simracingcockpit.com › sim-racing-guide",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK4bGmynfOWC_grYFglxrQlxXZ_qVyD77fNcXp0CrLYQ6BwdTHgJoN&usqp=CAE&s",
+          "date": "26 Oct 2021",
+          "snippet": "It might surprise you to hear that sim racing as an industry is a huge consumer market, with the market-leading equipment manufacturer, ...",
+          "about_this_result": {
+            "source": {
+              "description": "simracingcockpit.com was first indexed by Google more than 10 years ago",
+              "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484560a93666eda0d4fdcd2972c763843354be1d53cdfba0e150a6f7c978d5fbd66cf649cb8194d466ff123f3b77e1f5ba446f37f7969ea054814.png"
+            }
+          },
+          "about_page_link": "https://www.google.com/search?q=About+https://simracingcockpit.com/sim-racing-guide/&tbm=ilp&ilps=AC47Oe-i7U3v0jojOfgbZtgwNi8wXHyf1w",
+          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OstFBMe7LD0J:https://simracingcockpit.com/sim-racing-guide/+&cd=17&hl=en&ct=clnk&gl=uk"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "title": "Sim Racing Hardware",
+      "link": "http://simracinghardware.com/",
+      "displayed_link": "http://simracinghardware.com",
+      "snippet": "Sim Racing Hardware design and manufacture cutting edge, high-end simulation equipment for both Corporate Clients and private enthusiasts.",
+      "about_this_result": {
+        "source": {
+          "description": "simracinghardware.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456e8287a71532e30059752792107358c2e25a4dec92f5325b234e2db7e38b19918531de02d31760960.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://simracinghardware.com/&tbm=ilp&ilps=AC47Oe8P803Y_Jb2RhfOi6uyHbeSPNOb2Q",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:Z-UMjDMiFu0J:simracinghardware.com/+&cd=18&hl=en&ct=clnk&gl=uk",
+      "related_pages_link": "https://www.google.com/search?q=related:simracinghardware.com/+sim+racing+gear"
+    },
+    {
+      "position": 15,
+      "title": "simracewebshop.com: Home",
+      "link": "https://simracewebshop.com/",
+      "displayed_link": "https://simracewebshop.com",
+      "snippet": "Hello fellow Sim racer, My name is Marco Fintelman, owner of Simracewebshop and a fanatic sim racer.",
+      "about_this_result": {
+        "source": {
+          "description": "simracewebshop.com was first indexed by Google in December 2018",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845657f1547da28a7132c43382fc0d80094312e74fcdd8ba7cc0f917a0db213fd7fc4d47da65e3e2e2b0.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://simracewebshop.com/&tbm=ilp&ilps=AC47Oe_q0xSm653htIofbGJvdKk2hldnEQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xowK1P5lLYkJ:https://simracewebshop.com/+&cd=19&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 16,
+      "title": "Sim Racing Accessories | Sim Racing Products",
+      "link": "https://www.apexsimracing.com/",
+      "displayed_link": "https://www.apexsimracing.com",
+      "snippet": "Shop for high-quality specialty sim racing accessories. Visit us and buy Sim button boxes, steering wheels, displays, and turnkey racing simulators!",
+      "about_this_result": {
+        "source": {
+          "description": "apexsimracing.com was first indexed by Google in February 2017",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456c63dc788dae5f285478ce71d09be3d643d9fad8a5f7e17899cf8a4c16d21f46bc8c31fc60c6c10ca.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.apexsimracing.com/&tbm=ilp&ilps=AC47Oe96A5sMlnIRQ61foXbIRSqpCyXRJg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8luSqdcNgboJ:https://www.apexsimracing.com/+&cd=20&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 17,
+      "title": "Sim Gear - Buy and Sell - InsideSimRacing Forums",
+      "link": "https://www.isrtv.com/forums/forum/37-sim-gear-buy-and-sell/",
+      "displayed_link": "https://www.isrtv.com › forums › forum › 37-sim-gear-...",
+      "snippet": "The place to buy or sell sim related equipment. ISR / SRT is not responsible for any items on sale in this forum. ... DO NOT burn your fellow sim racer.",
+      "about_this_result": {
+        "source": {
+          "description": "isrtv.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456ceec5ee2032a8b53b418f2f2c450d71d67c11d556799049c8acbf6184be5859f2dbb0c3842190291.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.isrtv.com/forums/forum/37-sim-gear-buy-and-sell/&tbm=ilp&ilps=AC47Oe_Dy_eXcRBBW-_djnL-TSuoILfXrw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7gSpy5_7Lf0J:https://www.isrtv.com/forums/forum/37-sim-gear-buy-and-sell/+&cd=21&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 18,
+      "title": "MOZA Racing Simulator Equipment | Sim Racing Wheel ...",
+      "link": "https://mozaracing.com/",
+      "displayed_link": "https://mozaracing.com",
+      "snippet": "MOZA Racing is determined to create innovative and professional sim racing equipment that drivers can depend on for quality and endurance.",
+      "about_this_result": {
+        "source": {
+          "description": "mozaracing.com was first indexed by Google in March 2021",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484561eeba5ab2667e1303ffacadf3385621b5e8396bd5b3f58de234e736155a98b6811f35073219da2eb.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mozaracing.com/&tbm=ilp&ilps=AC47Oe-NCNOG6p-RNUvIa4g4-X78Dmb_mQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VawB0kZvMU0J:https://mozaracing.com/+&cd=22&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 19,
+      "title": "Sim Racing Market - Sale/Exchange | Facebook",
+      "link": "https://www.facebook.com/groups/SimRacingMarket/",
+      "displayed_link": "https://www.facebook.com › Facebook Groups",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Q5pCJhy9vGgSXbEkv8EhDpPcjG7rTR5_wlMWE6g3SEa7c73yoOYw&usqp=CAE&s",
+      "snippet": "Buy, Sale, Exchange or look for 'Sim Racing Gear' and accessories. \"Second hands & Bargains\" !SCAMMER-ALLERT! Be...",
+      "about_this_result": {
+        "source": {
+          "description": "Facebook is an American online social media and social networking service owned by Meta Platforms. Founded in 2004 by Mark Zuckerberg with fellow Harvard College students and roommates Eduardo Saverin, ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Facebook",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456c562428bfde4eb11e4bbaa53dfad682f6df8340321173f170644fbba95f8ec70f78576f5a2763e58.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/SimRacingMarket/&tbm=ilp&ilps=AC47Oe_Eo-6Vo6HVXwYNvKzhOIs0QtMA4A"
+    },
+    {
+      "position": 20,
+      "title": "Racing simulators | Sparco Official Online Store",
+      "link": "https://www.sparco-official.com/en/gaming/esports/sim-racing.html",
+      "displayed_link": "https://www.sparco-official.com › esports › sim-racing",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0yIBDUVRe2k8PkVm6ZlPZqrI6f2qPcXlHHSJ4_2YQRL9j95mWrfY&usqp=CAE&s",
+      "snippet": "Discover the Sim Racing section with the Sparco sim racing cockpits. Shop online with just a few clicks!",
+      "about_this_result": {
+        "source": {
+          "description": "Sparco S.p.A. is an Italian auto part and accessory company headquartered in Volpiano near Turin that specializes in producing items such as seats, steering wheels, harnesses, racewear and helmets. Sparco branded alloy wheels are produced under licence by OZ Group.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Sparco",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484560edb4218a3db5007834516d3b4f75965ed51bf763ad87853b57720795d7bbf1e32f70015ba364f0e.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sparco-official.com/en/gaming/esports/sim-racing.html&tbm=ilp&ilps=AC47Oe8Juuh_kEcXy9aNTY1joJdgJ6k2hw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TIzeyvLKugUJ:https://www.sparco-official.com/en/gaming/esports/sim-racing.html+&cd=24&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 21,
+      "title": "The Best Sim Racing Rigs on The Market in 2022 - Coach ...",
+      "link": "https://coachdaveacademy.com/tutorials/what-is-the-best-sim-racing-rig/",
+      "displayed_link": "https://coachdaveacademy.com › tutorials › what-is-the-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVDBbaoy4Ez59I7fyjuXZsY0kO8mLI3jj7Xyj_BhpK961AvgYPNwC&usqp=CAE&s",
+      "snippet": "Our Sim Rig Recommendations · Our Recommendation – Next Level Racing F-GT · Playseat Evolution · Sparco Evolve GP · SimXPro SXP Basic Rig · Playseat F1 · Fanatec ...",
+      "about_this_result": {
+        "source": {
+          "description": "coachdaveacademy.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484562f207bc6b07712744aa3065d1653c8a06890e3430443afa717ddf8701d5971ca4f27619c0c9b48f3.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://coachdaveacademy.com/tutorials/what-is-the-best-sim-racing-rig/&tbm=ilp&ilps=AC47Oe_9jBWbhawSinfHxDxWXmmpr6kdkQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hnjzYxsAvtsJ:https://coachdaveacademy.com/tutorials/what-is-the-best-sim-racing-rig/+&cd=25&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 22,
+      "title": "A Beginner's Guide to Sim Racing - How To Get Started ...",
+      "link": "https://www.asetek.com/blogs/a-beginners-guide-to-sim-racing/",
+      "displayed_link": "https://www.asetek.com › blogs › a-beginners-guide-to-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDlobY_WYdaT5r6ZgJdPxTrvHWUEobTHScTadUM9ZWIq0kNxhe5c3&usqp=CAE&s",
+      "date": "8 Dec 2021",
+      "snippet": "What Equipment Do You Need for Sim Racing? · To start your foray into sim racing, you need a proper sim racing setup. · Some racing simulators can ...",
+      "about_this_result": {
+        "source": {
+          "description": "Asetek A/S is a Danish company that designs, develops and markets liquid cooling solutions for computer systems. The company has two segments - the desktop segment and the data center segment. Asetek was founded in 1997 and is based in Aalborg, Denmark.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Asetek",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456836dccd4ec439c554bcebca4f2a822705806c2eb71277d890174f34037bab86f9d6a16c20ebd2db1.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.asetek.com/blogs/a-beginners-guide-to-sim-racing/&tbm=ilp&ilps=AC47Oe8OAGPh0_YPIXM4N0_A-oTEBM04FQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:J77DbX--cx4J:https://www.asetek.com/blogs/a-beginners-guide-to-sim-racing/+&cd=26&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 23,
+      "title": "[Top 10] Sim Racing Accessories You Should Have",
+      "link": "https://www.gamersdecide.com/articles/sim-racing-accessories",
+      "displayed_link": "https://www.gamersdecide.com › articles › sim-racing-a...",
+      "date": "26 Aug 2021",
+      "snippet": "[Top 10] Sim Racing Accessories You Should Have · 10 . VR headset · 9 . Triple Screen Monitor · 8 . Racing Gloves · 7 . Cockpit Button Box · 6 .",
+      "about_this_result": {
+        "source": {
+          "description": "gamersdecide.com was first indexed by Google in April 2012",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484562791bd66df945848fea1b86e5e90ea0ed1c3b50f40b90a53bec0511bf347e1d116132265ebe9d9b2.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gamersdecide.com/articles/sim-racing-accessories&tbm=ilp&ilps=AC47Oe_gIqE12uFTOULdtPKx-gUwvAVhjw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:o8YtnelnXfoJ:https://www.gamersdecide.com/articles/sim-racing-accessories+&cd=27&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 24,
+      "title": "Racewerk manufacturer and distributor of high quality sim ...",
+      "link": "https://racewerk.com/",
+      "displayed_link": "https://racewerk.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqFdI9rvW0UdFrqvc9jr-9p6JKKcibqHd0IrO_WWspuKcysMbZDRFE&usqp=CAE&s",
+      "snippet": "Racewerk is developer, manufacturer and distributor of high quality sim racing gear built around the brand new and revolutionary Simucube 2 eco-system.",
+      "about_this_result": {
+        "source": {
+          "description": "racewerk.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845678b03b634bb7552fb82cf78e570142f23675c46c313698c6ae091bfcd3be40acbcc2da63d1a25de7.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://racewerk.com/&tbm=ilp&ilps=AC47Oe_HS7SSNlVQR4tUKqXUPVYm_ergew",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mDAmPPlPn8kJ:https://racewerk.com/+&cd=28&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 25,
+      "title": "Extreme Simracing",
+      "link": "https://extremesimracing.com/",
+      "displayed_link": "https://extremesimracing.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5G6TiuMZUu4mPy3jAZXjGv5qQ6eMOo1aDfdzrO0JvXC4lMxaNaMdU&usqp=CAE&s",
+      "snippet": "Since 2008 developing, manufacturing and selling sim racing rigs, wheel stands and many other accessories for racing simulation.",
+      "about_this_result": {
+        "source": {
+          "description": "extremesimracing.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456a282c48ad6cea6947d8d2e31f30c5bb3a7ad1b12a6df26bd4cdc2c6bb4a3dfc220e5752ecaabe7b8.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://extremesimracing.com/&tbm=ilp&ilps=AC47Oe-Fkh5HVVvCSPoig6iMpvdgF9INVA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:04_9dCMRvVIJ:https://extremesimracing.com/+&cd=29&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 26,
+      "title": "Sim Racing Hardware | GTPlanet",
+      "link": "https://www.gtplanet.net/forum/board/sim-racing-hardware.163/",
+      "displayed_link": "https://www.gtplanet.net › Forums › Hardware",
+      "date": "3 days ago",
+      "snippet": "Steering wheels, wheel stands, sim racing seats, and more. ... Sticky. Ricmotech Sim-Racing Equipment · Ricmotech · May 25, 2014.",
+      "about_this_result": {
+        "source": {
+          "description": "gtplanet.net was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456b81bc2298128105b5e30fbdfc608c7660bdd5d77810ec05f837d7208849ebf76f7207643d7049386.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gtplanet.net/forum/board/sim-racing-hardware.163/&tbm=ilp&ilps=AC47Oe8nKxzrAu914eFiU2BcLHGe49DI0Q",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4z-KErQPUIUJ:https://www.gtplanet.net/forum/board/sim-racing-hardware.163/+&cd=30&hl=en&ct=clnk&gl=uk",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.gtplanet.net/forum/board/sim-racing-hardware.163/+sim+racing+gear"
+    },
+    {
+      "position": 27,
+      "title": "Sim Racing Marketplace | RaceDepartment",
+      "link": "https://www.racedepartment.com/forums/sim-racing-marketplace.66/",
+      "displayed_link": "https://www.racedepartment.com › forums › sim-racing...",
+      "snippet": "Sell [USA - NY] Complete SIM Rig - Simlab P1-X with accessories/Fanatec Podium Hub with F1 wheel/Clubsport Pedals ... Sell [USA/FL]Assorted simracing gear.",
+      "about_this_result": {
+        "source": {
+          "description": "racedepartment.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845610fd27fd1f1178c5238bac38aa0dc4863b75ac583b4a47541c0fb662627178b1c585c06c6e229e68.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.racedepartment.com/forums/sim-racing-marketplace.66/&tbm=ilp&ilps=AC47Oe9G8h1meA3w4MDh8QRzwRWvRbn3mw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UBq3LShQROoJ:https://www.racedepartment.com/forums/sim-racing-marketplace.66/+&cd=31&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 28,
+      "title": "Sim racing gear maintenance | Studio-397 Forum",
+      "link": "https://forum.studio-397.com/index.php?threads/sim-racing-gear-maintenance.59345/",
+      "displayed_link": "https://forum.studio-397.com › sim-racing-gear-mainte...",
+      "snippet": "Sim racing gear maintenance ... Would I use it on my sim gear? ... manufacturer for my gear (my g27 is going to make 7 years old this year, ...",
+      "about_this_result": {
+        "source": {
+          "description": "forum.studio-397.com was first indexed by Google in November 2016",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845636de058304996b489c41736ebfc3a4651c9d07180d26dabb46d07f34d60eb8e77296c78d316b9493.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://forum.studio-397.com/index.php?threads/sim-racing-gear-maintenance.59345/&tbm=ilp&ilps=AC47Oe_j0NxWRoCJStTvwF448b-JgHu3-A",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SvPiPffo0WUJ:https://forum.studio-397.com/index.php%3Fthreads/sim-racing-gear-maintenance.59345/+&cd=32&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 29,
+      "title": "The 5 Best Sim Racing Gear Stick Shifters For Pro Buyers",
+      "link": "https://flowracers.com/blog/best-sim-racing-gear-stick-shifter/",
+      "displayed_link": "https://flowracers.com › blog › best-sim-racing-gear-sti...",
+      "snippet": "The 5 Best Sim Racing Gear Stick Shifters · 1. Fanatec ClubSport SQ Shifter · 2. PSL Sequential Shifter V2 · 3. ThrustMaster TH8A Add-On Shifter · 4. Aiologs ...",
+      "about_this_result": {
+        "source": {
+          "description": "flowracers.com was first indexed by Google in October 2019",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456172ab7258b409231ce9a547e951f489c2d2ce46041c582d561a570ee5a96cfe7e24a46c2534dbbd7.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://flowracers.com/blog/best-sim-racing-gear-stick-shifter/&tbm=ilp&ilps=AC47Oe920PDJdUyIZu4ZF50Mn8gIARTajA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0fahgNj20IoJ:https://flowracers.com/blog/best-sim-racing-gear-stick-shifter/+&cd=33&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 30,
+      "title": "Home - Puresims | The UK's Leading Store & Sim-lab Distro...",
+      "link": "https://pure-sims.com/",
+      "displayed_link": "https://pure-sims.com",
+      "snippet": "You can build a complete simulator or simply just buy the odd accessory to complete your rig. Checkout. There are a few ways for you to proceed with ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from pure-sims.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484563a75546c9a6ee989e9d45dff4554d7ffb07c10ff53d3a1a069aca3332457bb1caac687e68b27bf67.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pure-sims.com/&tbm=ilp&ilps=AC47Oe-bqm2dZUb5NvhL78Qv3DD-xnp_NQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:j78MbrUkjB0J:https://pure-sims.com/+&cd=34&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 31,
+      "title": "Home - TREQ - Sim Racing Equipment",
+      "link": "https://www.treq-sim.com/",
+      "displayed_link": "https://www.treq-sim.com",
+      "snippet": "This is your go to address for high quality sim racing equipment. We've got everything from rigs, seats and accessories.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.treq-sim.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845684d9c360ba173a106f24188378e124c63d3f09dc45f56f8e71310ba0dec7fb1f2966fea063e26f1c.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.treq-sim.com/&tbm=ilp&ilps=AC47Oe9z7H4ITaTIgLvka4z-G1sLwJLliQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fbTtzLFF-VkJ:https://www.treq-sim.com/+&cd=35&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 32,
+      "title": "The 12 Best Home Racing Simulator Rigs of 2022",
+      "link": "https://hiconsumption.com/best-home-racing-simulators/",
+      "displayed_link": "https://hiconsumption.com › best-home-racing-simulators",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk09DdsGn0fp9Ai3QjjTwh0OltzdPRlvJdVY5bk1ioCl7GyzvHc9wh&usqp=CAE&s",
+      "date": "12 Jan 2022",
+      "snippet": "Stilo ST5VR Helmet · Next Level Racing F-GT Cockpit · Fanatec Rennsport Cockpit V2 · SPARCO Sim Rig II · Cool Performance Formula Simulator · VRXsim ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from hiconsumption.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456da382014c0b753dccdfb7fd9ab9d4aabc3a71947d2355245e7b9e679ec1bc59d7a73985aa8423be3.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://hiconsumption.com/best-home-racing-simulators/&tbm=ilp&ilps=AC47Oe_lwrWdSWricQa6qBAR0Zqx7s2Chg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5_W7X8c3hF0J:https://hiconsumption.com/best-home-racing-simulators/+&cd=36&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 33,
+      "title": "Sim Hound - Sim Racing Equipment & Accessories",
+      "link": "https://simhound.com/",
+      "displayed_link": "https://simhound.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lo0HQpqLAxGphx4ZlbDX0FfvNLLDcRtjEITb2IpjVJF7VYz-mfpM&usqp=CAE&s",
+      "snippet": "High Quality, Great Value Sim Racing Products for Esports and Gaming Enthusiasts. Offering Exclusive Simulator Rigs, Sim Racing Apparel and Accessories.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from simhound.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456a0284a2345c534980cd6b15341291c49719db055482cdbb74d54b81e5ac8fb5783cff5f53bda6b33.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://simhound.com/&tbm=ilp&ilps=AC47Oe8iLb5-mgkjsxw_z6InIdjTdD8fOQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eNeES7UfiekJ:https://simhound.com/+&cd=37&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 34,
+      "title": "Fanatec USA | Fanatec",
+      "link": "https://www.fanatec.com/",
+      "displayed_link": "https://www.fanatec.com",
+      "snippet": "Enthusiast-grade equipment, built by sim racers, for sim racers. Designed and engineered in Germany, Fanatec racing simulation hardware is built to the ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.fanatec.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456cf7b66bde43b129498a9692fb1a69b4f042de758e0f7a2028cd04e9ec34f442f4502e87ed7e36ccd.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fanatec.com/&tbm=ilp&ilps=AC47Oe_K-k_MpB--nPlMCRcgdHMBl8fdqg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:C9kQB2cmkV8J:https://www.fanatec.com/+&cd=38&hl=en&ct=clnk&gl=uk",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.fanatec.com/+sim+racing+gear"
+    },
+    {
+      "position": 35,
+      "title": "Sim Wear - IMB Racewear",
+      "link": "https://www.imbracewear.com/pages/sim-wear",
+      "displayed_link": "https://www.imbracewear.com › pages › sim-wear",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzkzcMo0Hw4uz18t7rfVsrSKmDIt6cZ9sQ68HGIxWINiol_Yjz2Y72&usqp=CAE&s",
+      "snippet": "THE SIM RACING WEAR RANGE · LSG-1 Long Sim Racing Gloves · ESG-1 External Stitched Sim Racing Gloves · SSG-1 Short Sim Racing Gloves · ESS-1 External Stitched Short ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.imbracewear.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456cfa910adf92fee14f0f6aae855ddb2423a86b04d54add6db21098b1c599c99c462b0fee371282df8.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.imbracewear.com/pages/sim-wear&tbm=ilp&ilps=AC47Oe9CWKywWszLy0QrXEN5n5UJJ-7kXQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1Nyg9vJboukJ:https://www.imbracewear.com/pages/sim-wear+&cd=39&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 36,
+      "title": "Sim Racing Flag Gear Spotter Display",
+      "link": "https://www.simracingaddict.co.uk/collections/sim-racing-flag-gear-spotter-display",
+      "displayed_link": "https://www.simracingaddict.co.uk › collections › sim-r...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSot89xS75FcfYGItB4DP5MSUS0Zo6Q6UePGVhktABHK0oB6nRH6Tbo&usqp=CAE&s",
+      "snippet": "Sim Racing Flag Gear Spotter Display. Filter by. Filter by, Flag Display · Plug&Play · 1x Sim Racing Flag Gear Spotter Shift Light Display. £47.99 ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.simracingaddict.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484561ea7bedf0df718911d38a58b841f5358f0a1fe371d2b850407b415d2f7c404b652813e79bb8d19c3.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.simracingaddict.co.uk/collections/sim-racing-flag-gear-spotter-display&tbm=ilp&ilps=AC47Oe8mD42rYUIbiQJkEzvVwEOs6ryWmw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:U-XFtA9hLOsJ:https://www.simracingaddict.co.uk/collections/sim-racing-flag-gear-spotter-display+&cd=40&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 37,
+      "title": "Sim Racing Cockpit Deals | Simulator Rigs at Box.co.uk",
+      "link": "https://www.box.co.uk/simulator-cockpits",
+      "displayed_link": "https://www.box.co.uk › simulator-cockpits",
+      "snippet": "Changes From Formula To GT Racing Positions With Ease; Next Level Racing Hubs Allow For Quick Adjustments And Durability; Adjustable Wheel - Gear Shifter ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.box.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456691c01bc05a04f4cf54f657ad07f2f484e4df4738d2e7200224e7828637c956fb822ba68426928fe.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.box.co.uk/simulator-cockpits&tbm=ilp&ilps=AC47Oe-lk7dcx9ConbFS1hUeNSfSxKwc4w",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WmlaW7-f_NUJ:https://www.box.co.uk/simulator-cockpits+&cd=41&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 38,
+      "title": "Sparco Gaming SIM Racing Rigs - Radne",
+      "link": "https://www.radne.com/category/sparco-sim-racing-gaming-rigs",
+      "displayed_link": "https://www.radne.com › category › sparco-sim-racing-...",
+      "snippet": "When it comes to hardcore Sim Racing, Sparco is the first choice, now can race in the ... Sim-racing gear shift and handbrake support for left hand side.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.radne.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484560402ffd3a023a14ca9084cab81176ab7599adeccac61c2e9bb035e3a258cf99ccc07bc8629fd7f73.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.radne.com/category/sparco-sim-racing-gaming-rigs&tbm=ilp&ilps=AC47Oe9WN0OzeKxmI5BH4Bko1hDHgeRm7g",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KOu9h6A6mIAJ:https://www.radne.com/category/sparco-sim-racing-gaming-rigs+&cd=42&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 39,
+      "title": "4 Best Sim Racing Rigs & Wheels For Any Budget! Ultimate ...",
+      "link": "https://simracingsetup.com/product-guides/best-sim-racing-rig-wheel-setups/",
+      "displayed_link": "https://simracingsetup.com › product-guides › best-sim-...",
+      "date": "16 Apr 2021",
+      "snippet": "The sim racing rig/seat – This is where you will sit or mount your sim racing equipment; The sim racing wheel & pedals – This is the product ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from simracingsetup.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845684f7f65d4c6202e9f259081c08fa3592805f71b38a4f752a1ca0754988d7aeafc3eb07d5680eea7d.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://simracingsetup.com/product-guides/best-sim-racing-rig-wheel-setups/&tbm=ilp&ilps=AC47Oe8dWBkyrt0yudh9AkqElLE_NKwEKA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mXnFvhz7HAYJ:https://simracingsetup.com/product-guides/best-sim-racing-rig-wheel-setups/+&cd=43&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 40,
+      "title": "What's considered high end sim racing gear? : r/simracing",
+      "link": "https://www.reddit.com/r/simracing/comments/q8mx3k/whats_considered_high_end_sim_racing_gear/",
+      "displayed_link": "https://www.reddit.com › simracing › comments › what...",
+      "date": "15 Oct 2021",
+      "snippet": "Like overall. No compromise in all areas. I thought that was fanatec or that fanatec was really close but I know they're some really pricy ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.reddit.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845669ab17fb08d0f0438709fd7550dd492fb2a04281ea44b3c2f9b92b59df0643d10df275be3ee721d7.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/simracing/comments/q8mx3k/whats_considered_high_end_sim_racing_gear/&tbm=ilp&ilps=AC47Oe9Q3GI5Oip0_Z7OCm0I1ha6Izr_gA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vsgydFqu0EIJ:https://www.reddit.com/r/simracing/comments/q8mx3k/whats_considered_high_end_sim_racing_gear/+&cd=44&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 41,
+      "title": "Welcome to the Sim Racing Machines Web Shop",
+      "link": "https://www.simracingmachines.com/WebShop",
+      "displayed_link": "https://www.simracingmachines.com › WebShop",
+      "snippet": "Here at Sim Racing Machines, we are passionate about sim racing. ... https://simraceshop.de ... Replacement Gear Shifter Set for Fanatec Wheels. £114.00.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.simracingmachines.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845667f642770656638b45be8e25fd0c853d9deca8bd49a643f8090744bf05e00adeffc1ac8766b9f5f8.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.simracingmachines.com/WebShop&tbm=ilp&ilps=AC47Oe9z7O3w9JuPFTIn5YxFr1Pl4v-Hnw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ElbsOeiGIFAJ:https://www.simracingmachines.com/WebShop+&cd=45&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 42,
+      "title": "Sim Racing Equipment",
+      "link": "https://pcasimracing.com/sim-racing-equipment/",
+      "displayed_link": "https://pcasimracing.com › sim-racing-equipment",
+      "snippet": "Sim racing software · A desktop or laptop PC · Sim racing controllers · An Internet wired connection (Ethernet) · A computer monitor · Headset with microphone · A ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from pcasimracing.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456c216586da72cd2fc2e3a36030ee6776e8dcdf51774ced206599551fc6ed511b5653ee9f5bcf8b7a5.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pcasimracing.com/sim-racing-equipment/&tbm=ilp&ilps=AC47Oe-2_VHMH2YT1okgq6dU3AgfGcb-2g",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SeQgVWsOXJkJ:https://pcasimracing.com/sim-racing-equipment/+&cd=46&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 43,
+      "title": "Does better sim racing equipment equal better lap times?",
+      "link": "https://forum.reizastudios.com/threads/does-better-sim-racing-equipment-equal-better-lap-times.2145/",
+      "displayed_link": "https://forum.reizastudios.com › threads › does-better-si...",
+      "date": "17 Apr 2017",
+      "snippet": "I'm just a casual racer, but was wondering if better sim equipment = better lap times? I have a Logitech G25, in a Pagnian Import steel race ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from forum.reizastudios.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456c20da8dc796e0a28dddc0cecf76c7034322eb05edb6c584cd0d539ea0ab798a34f4e19deebf60d41.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://forum.reizastudios.com/threads/does-better-sim-racing-equipment-equal-better-lap-times.2145/&tbm=ilp&ilps=AC47Oe8Y0hTtotkbED-G2cYIj0_n_uRyUw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jovJ_5naYV0J:https://forum.reizastudios.com/threads/does-better-sim-racing-equipment-equal-better-lap-times.2145/+&cd=47&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 44,
+      "title": "Sim Racing - Amazon.com",
+      "link": "https://www.amazon.com/Sim-Racing/s?k=Sim+Racing",
+      "displayed_link": "https://www.amazon.com › Sim-Racing › k=Sim+Racing",
+      "snippet": "1-16 of over 4,000 results for \"Sim Racing\". RESULTS · Logitech G Dual-Motor Feedback Driving Force G29 Gaming Racing Wheel with Responsive Pedals for ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.amazon.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456295e41b7be3bdfea4851d70e2adb19cc9e1beecbe94798ea74cfbe0f6fc169dc4725768340285893.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.com/Sim-Racing/s?k%3DSim%2BRacing&tbm=ilp&ilps=AC47Oe8ZsG1xVeX0VDO5IIBnEWKGxFryTA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IVJAJTwSxUEJ:https://www.amazon.com/Sim-Racing/s%3Fk%3DSim%2BRacing+&cd=48&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 45,
+      "title": "RaceGear - professional equipment (pedals) for sim racing",
+      "link": "https://racegear.eu/",
+      "displayed_link": "https://racegear.eu",
+      "snippet": "Professional equipment (pedals) for sim racing, designed and made in Czech Republic EU.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from racegear.eu",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845649c3795479ccf02078cb675bec5775a2037620a940aa61c814da76823c2bfcce70d59d36137fca86.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://racegear.eu/&tbm=ilp&ilps=AC47Oe8cPjK3WzwMyq7X9Li4VKcapdrzDQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fjFnH5_ivPQJ:https://racegear.eu/+&cd=49&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 46,
+      "title": "Chris Haye Sim Racing – Sim racing content creator ...",
+      "link": "https://chrishaye.com/",
+      "displayed_link": "https://chrishaye.com",
+      "date": "14 Feb 2022",
+      "snippet": "Sim racing field of view is weirdly misunderstood subject, but it boils down to this: You can and … ... Sim Racing Gear Reviews ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from chrishaye.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484562e48628c419b8bf0498b857925427392e1d8d0cea6a5ba8664d10e9de16f1fc04ee79a291bda855b.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://chrishaye.com/&tbm=ilp&ilps=AC47Oe-CszbJ52NOhqFdVRbWVBBWEEAaYw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q10MThyhXIAJ:https://chrishaye.com/+&cd=50&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 47,
+      "title": "Sim Racing Machines gear shifter set - SimRaceShop",
+      "link": "https://www.simraceshop.de/sim-racing-machines-gear-shifter-set.html?language=en",
+      "displayed_link": "https://www.simraceshop.de › ... › Clutch & Shifter",
+      "snippet": "Sim Racing Machines gear shifter set. Unlike other shifters available at the moment ours can be customised, upgraded and parts can be replaced.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 139.0,
+            "currency": "€"
+          },
+          "extensions": [
+            "€139.00",
+            "‎In stock"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.simraceshop.de",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845689d76e15a909b44d6e2d75c72960b08521a8f5749454892467545688d8077df1e492870bb302d62f.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.simraceshop.de/sim-racing-machines-gear-shifter-set.html?language%3Den&tbm=ilp&ilps=AC47Oe_lIMW4M0V1i6T3S1sXxUtahLousA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aO13m4dePtkJ:https://www.simraceshop.de/sim-racing-machines-gear-shifter-set.html%3Flanguage%3Den+&cd=51&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 48,
+      "title": "How to build the best sim racing rig for your budget - Goodwood",
+      "link": "https://www.goodwood.com/grr/race/modern/2020/4/how-to-build-the-best-sim-racing-rig-for-your-budget/",
+      "displayed_link": "https://www.goodwood.com › ... › Race › Modern",
+      "snippet": "All of the equipment mentioned is compatible across consoles and PC. Just make sure to get the version made for your platform.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.goodwood.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456fdd7cfd0e1d227e4dc409525b070c68d3f3c0914d688dc90e660b1649515e690675cff73db384ffb.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.goodwood.com/grr/race/modern/2020/4/how-to-build-the-best-sim-racing-rig-for-your-budget/&tbm=ilp&ilps=AC47Oe9eUmvgf4pCy70ReXKyFJi4iwZbTw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:O_PnaB5KLEgJ:https://www.goodwood.com/grr/race/modern/2020/4/how-to-build-the-best-sim-racing-rig-for-your-budget/+&cd=52&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 49,
+      "title": "Sim racing | Stuff for Sale - Gumtree",
+      "link": "https://www.gumtree.com/for-sale/uk/sim+racing",
+      "displayed_link": "https://www.gumtree.com › For Sale",
+      "snippet": "LOGITECH G29 RACING SIMULATOR WORKS ON PS4,PS5,PC BEEN USING ON GT7 Included - G29 STEERING WHEEL PEDALS WITH STIFFENED BRAKE PEDAL SPRING GEAR SHIFTER ADX ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.gumtree.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456739fe8fc2637419fb715ebf5f0b39b160a23d45a144002517bf1f6cd756b67419f62e4c3d0093469.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gumtree.com/for-sale/uk/sim%2Bracing&tbm=ilp&ilps=AC47Oe8f1l0A0S34m4WC2AidKTwcdgsG-A",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:l3lAcy4W9CIJ:https://www.gumtree.com/for-sale/uk/sim%2Bracing+&cd=53&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 50,
+      "title": "SIM RACING GEAR - Technomania Cyprus",
+      "link": "https://www.technomania.eu/categories/sim-racing",
+      "displayed_link": "https://www.technomania.eu › categories › sim-racing",
+      "snippet": "SIM RACING · Sim Racing Accessories · Sim Racing Cockpits · Sim Racing Gear · TR8020 Black Cockpit-Mounted Single Monitor Stand with VESA Mount – 1200mm Monitor ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.technomania.eu",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484564a69c8dc7cfe4eaa10af54c81cecd5944a5dab4e2e0cf6db9fd9e9f6b672cca15a89d66cd9532620.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.technomania.eu/categories/sim-racing&tbm=ilp&ilps=AC47Oe9sW7Y_R6Qjl_MuwcrBzowUEqtagQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AHLZqQfmhlsJ:https://www.technomania.eu/categories/sim-racing+&cd=54&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 51,
+      "title": "I Built a Virtual Racing Simulator in My Living Room That's As ...",
+      "link": "https://www.esquire.com/lifestyle/cars/a34497432/best-virtual-racing-simulator-build-gear/",
+      "displayed_link": "https://www.esquire.com › lifestyle › cars › best-virtual-...",
+      "date": "28 Oct 2020",
+      "snippet": "Now, I'm living the dream with a video game rig that's more ... sim racing chair ... Get the Best Intel on New Tech and Gear, Every Day.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.esquire.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484563831401aa2e3b4b5620bd9418eafcc49eb18ac7a8205c08b6fa78dc5e5509144a6aed433acf8442b.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.esquire.com/lifestyle/cars/a34497432/best-virtual-racing-simulator-build-gear/&tbm=ilp&ilps=AC47Oe9wUUsBhz7teFoE3Hm2uo9YUx7bBQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4Kz_qC6bZygJ:https://www.esquire.com/lifestyle/cars/a34497432/best-virtual-racing-simulator-build-gear/+&cd=55&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 52,
+      "title": "Sim Racing Gear On Sale - Best Deals in South Africa - AmpTek",
+      "link": "https://amptek.co.za/product-category/simracinggear/",
+      "displayed_link": "https://amptek.co.za › Shop",
+      "snippet": "Sim Racing Gear · Playseat Seat Slider Attachment · EG-R 4th Monitor Addon · Eg-R Gearshift Assembly · Eg Evolved Frame Cover · Playseat Floor Mat – XL · Eg-R ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from amptek.co.za",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456ac78785b1618fc31c51267f90b019b1ee814a76ac952f295bc8ece28e6ad2e3cc03a7e9838d0de7d.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://amptek.co.za/product-category/simracinggear/&tbm=ilp&ilps=AC47Oe8IC5G7p93kuo4rD_3margnhUrucg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:bBTC-H94R5sJ:https://amptek.co.za/product-category/simracinggear/+&cd=56&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 53,
+      "title": "Skull SimGear - Button Boxes, Sim Racing Equipment, Sim ...",
+      "link": "https://skullsimgear.com/",
+      "displayed_link": "https://skullsimgear.com",
+      "snippet": "Custom built to order button boxes. Perfect for Sim Racing games such as Iracing, Asseto Corsa, Truck Simulator. Works with Elite Dangerous ect.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from skullsimgear.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456f06861a026905be1efa2ae188b5963cb92d9190bb07024968802cbeeed5ffde86bf27c02814afc79.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://skullsimgear.com/&tbm=ilp&ilps=AC47Oe8CJy54YEGIbfYvRqaPeN6gbtzjDA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:z25xsmciD1QJ:https://skullsimgear.com/+&cd=57&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 54,
+      "title": "Wheel Stand - Next Level Racing",
+      "link": "https://nextlevelracing.com/products/next-level-racing-wheel-stand/",
+      "displayed_link": "https://nextlevelracing.com › products › next-level-raci...",
+      "snippet": "Next Level Racing Wheel Stand | Advanced Simulation Products. ... The gear shifter plate can also be upgraded to support flight electronics.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from nextlevelracing.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484567455eddb0f17792922a594258565d2075ddc16ff3acc697ac7b58e6f7954edd64ea867ec77ea60b8.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://nextlevelracing.com/products/next-level-racing-wheel-stand/&tbm=ilp&ilps=AC47Oe-KIwsLzZi3ljP1pH08GlmU8wAu9Q",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PUTh2uLZ2voJ:https://nextlevelracing.com/products/next-level-racing-wheel-stand/+&cd=58&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 55,
+      "title": "Sim Racing Cockpits, Spares & Accessories - Tegiwa Imports",
+      "link": "https://www.tegiwaimports.com/sim-racing-uk",
+      "displayed_link": "https://www.tegiwaimports.com › sim-racing-uk",
+      "snippet": "Sim Racing Header. WHAT'S SIM RACING ALL ABOUT? If you're not familiar with sim racing then heres a few advantages of investing into some equipment ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.tegiwaimports.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456882558d6482af6bedf6cd990f710babce4fe19f39a891fd721fe921110d859c610e9a3d3f5edda8d.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tegiwaimports.com/sim-racing-uk&tbm=ilp&ilps=AC47Oe9wyau9OaVtRRQ26pbXs9srSfc-6Q",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:m6My3FAOjdUJ:https://www.tegiwaimports.com/sim-racing-uk+&cd=59&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 56,
+      "title": "Sim Racing by MVHStudios",
+      "link": "https://mvhstudios.co.uk/",
+      "displayed_link": "https://mvhstudios.co.uk",
+      "snippet": "Sim Racing accessories for Logitech wheels. ... Welcome to MVHStudios where we make sim racing equipment that will get the maximum performance out of you ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from mvhstudios.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456a1a691f4303e82dfb4741c771a34fffb6288f59a6776205b00ca635d952f323e4d853301d2b510ae.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mvhstudios.co.uk/&tbm=ilp&ilps=AC47Oe_cfoL4fdSpIEmtjFbHJDtBekToYQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:v5nhuCJM70IJ:https://mvhstudios.co.uk/+&cd=60&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 57,
+      "title": "Raceroom UK Sim Racing Store",
+      "link": "https://raceroomuk.co.uk/",
+      "displayed_link": "https://raceroomuk.co.uk",
+      "snippet": "Official Stockists of RaceRoom Ascher Racing Track Time Heusinkveld Fanatec & Logitech Sim Racing Products. Sim Store Located At Brands Hatch Circuit UK.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from raceroomuk.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456a133078fac6756a103cdfb95477c9164deb4f00ca4d23db1f794d01a42a015d24e1227cf8d2ac1cd.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://raceroomuk.co.uk/&tbm=ilp&ilps=AC47Oe9kITICbriXgDGFNl_D2sdDr0oSlw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fXLqtnt70oMJ:https://raceroomuk.co.uk/+&cd=61&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 58,
+      "title": "Sim Racing Rig Flag Gear Spotter Shift Light Display PC ...",
+      "link": "https://www.ebay.co.uk/itm/294240909058",
+      "displayed_link": "https://www.ebay.co.uk › ... › Controllers & Attachments",
+      "snippet": "V3 of the profile, gives you choice to pick between couple of premade layouts for each flag and spotter. 2x Sim Racing Flag Display. 6 Stripe Colours.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.ebay.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456f79502944ec26cb40754f5704fc1f2ff8cd438ff1c33335fcc26843e24377f9afd25d37e88b4cf55.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ebay.co.uk/itm/294240909058&tbm=ilp&ilps=AC47Oe8pReMVSsWjGCUUmGj5k29EmUCU0w",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qED-2inQPQ4J:https://www.ebay.co.uk/itm/294240909058+&cd=62&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 59,
+      "title": "Budget H Pattern Gear Shifter Sim Racing On A Budget",
+      "link": "https://www.simrace247.com/2021/07/09/budget-h-pattern-gear-shifter-sim-racing-on-a-budget/",
+      "displayed_link": "https://www.simrace247.com › 2021/07/09 › budget-h-...",
+      "date": "9 Jul 2021",
+      "snippet": "USB Simulate H Gear shifter For Logitech G29 G27 G25 G920 Gearshift Knob For Thrustmaster T300RS/GT For ETS2 Sim PC Racing Game. Features：.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.simrace247.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456646909582ba0d7ecec2b2659acc84d712db4077e510b48f49eb32191c57b4e2c956ea3dc5a101d90.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.simrace247.com/2021/07/09/budget-h-pattern-gear-shifter-sim-racing-on-a-budget/&tbm=ilp&ilps=AC47Oe8wxEx7cJLdGRDhDjYHAdkciNKtaw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0Smnb-KcKzMJ:https://www.simrace247.com/2021/07/09/budget-h-pattern-gear-shifter-sim-racing-on-a-budget/+&cd=63&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 60,
+      "title": "Reviews | Sim Racing Garage",
+      "link": "https://simracinggarage.com/category/reviews/",
+      "displayed_link": "https://simracinggarage.com › category › reviews",
+      "snippet": "Final thoughts on the CRP pedal set from the guys at Moza Racing. ... It's good to see Sim Racing gear manufacturers making improvements to their existing ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from simracinggarage.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845676fb5e93966097bbda2570c691a381b636514cec4c1c123f31345b0f3978781d236564e12b21cd61.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://simracinggarage.com/category/reviews/&tbm=ilp&ilps=AC47Oe_nhpkrwXeiGN8L1EcIahkzf56gXA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OygUpm4f15gJ:https://simracinggarage.com/category/reviews/+&cd=64&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 61,
+      "title": "Race Anywhere - Curated Sim Racing Equipment - Online Store",
+      "link": "https://www.raceanywhere.co.uk/",
+      "displayed_link": "https://www.raceanywhere.co.uk",
+      "snippet": "Top quality sim racing equipment from top manufacturers. Sim Racing Cockpits, Sim Racing Rigs, Sim Racing Monitor Stands, Sim Rig Accessories, Sim Racing ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.raceanywhere.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845601b9c18223495c64fbaf3248b912231d7e0ef536134127c108e538a82face7a4bbe032af47f1903c.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.raceanywhere.co.uk/&tbm=ilp&ilps=AC47Oe-bnt8bJ60Fyk3nSYms9Eqg2Tvl8g",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1F7ZAdbWI4QJ:https://www.raceanywhere.co.uk/+&cd=65&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 62,
+      "title": "AdvancedSimRacing.com – Advanced SimRacing",
+      "link": "https://www.advancedsimracing.com/",
+      "displayed_link": "https://www.advancedsimracing.com",
+      "snippet": "Founded in 2020, Advanced SimRacing is the fastest-growing North American racing simulation chassis manufacturer and digital motorsport equipment retailer.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.advancedsimracing.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456ad977e693c6825e20e526ea5f0b543c7a8d23a4cdcecb8bf5741923047cc29dfbcdb6d44651c9242.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.advancedsimracing.com/&tbm=ilp&ilps=AC47Oe-sHleARfr1ay-kA77_VYJb54hPGQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0LN8HZ3xbnUJ:https://www.advancedsimracing.com/+&cd=66&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 63,
+      "title": "The Best Sim Racing Setups for Every Budget - RacingGuider",
+      "link": "https://racingguider.com/the-best-sim-racing-setups-for-every-budget/",
+      "displayed_link": "https://racingguider.com › the-best-sim-racing-setups-fo...",
+      "date": "31 Jan 2022",
+      "snippet": "It has a 900° rotation and a gear-driven wheelbase. It is a very reliable 11-inch (28 cm) steering wheel wrapped in leather. The TX version is ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from racingguider.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484563daee134818e120df24e0f0cfd4b30bbc2871e516569bf4dd6c0c23eec1195a030d7da2b9119c78d.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://racingguider.com/the-best-sim-racing-setups-for-every-budget/&tbm=ilp&ilps=AC47Oe8V5srj-QciYu7s2YLIsGnjOo480g",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aNRIn1fWEPIJ:https://racingguider.com/the-best-sim-racing-setups-for-every-budget/+&cd=67&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 64,
+      "title": "Pro Sim",
+      "link": "https://www.pro-sim.co.uk/",
+      "displayed_link": "https://www.pro-sim.co.uk",
+      "snippet": "Pro-Sim are the simulator of choice for many professional drivers from the ... We also manufacture some of the worlds best simulator hardware like our gear ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.pro-sim.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456f05f06442034dd356d7ce6417a0dd4322a22c3168c714cff81c6dba8ffd963fa081a4952640c5df5.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pro-sim.co.uk/&tbm=ilp&ilps=AC47Oe-C08Db6YqJGplL-4tQgShUhrCYwg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vwiHLHiNWWAJ:https://www.pro-sim.co.uk/+&cd=68&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 65,
+      "title": "Best PC racing wheel in 2022 | PC Gamer",
+      "link": "https://www.pcgamer.com/uk/best-steering-wheels-for-pc/",
+      "displayed_link": "https://www.pcgamer.com › Features",
+      "date": "4 days ago",
+      "snippet": "What type of force feedback is best for sim racing? There are a few different types of force feedback commonly found in racing wheels: gear- ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.pcgamer.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845669819d3b1775bb645f2f2f6cb9e0a334cd7de28241edfd032813e74d481df23e5f90e086ab4ee053.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pcgamer.com/uk/best-steering-wheels-for-pc/&tbm=ilp&ilps=AC47Oe-fLv34hmMlrVyFruBbk8I4C2dVBQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OC91uj-i5w4J:https://www.pcgamer.com/uk/best-steering-wheels-for-pc/+&cd=69&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 66,
+      "title": "The curious allure of sim racing - NME",
+      "link": "https://www.nme.com/features/gaming-features/the-curious-allure-of-sim-racing-3148150",
+      "displayed_link": "https://www.nme.com › features › gaming-features › th...",
+      "date": "1 Feb 2022",
+      "snippet": "My hands grip the steering wheel with force as I nail each gear change, while my eyes are focussed ahead on the apex of turn one, which rapidly ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.nme.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845648ac1ab566a7a105a5b06c4c4ce471fbbcaa8c902ccd7777a0ec9aa0ad5f15bc2d990528dd514688.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nme.com/features/gaming-features/the-curious-allure-of-sim-racing-3148150&tbm=ilp&ilps=AC47Oe993uwD2YaigoK87TUVrmSLtNr70A",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zYYGd6kK6_gJ:https://www.nme.com/features/gaming-features/the-curious-allure-of-sim-racing-3148150+&cd=70&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 67,
+      "title": "Boosted Media: Sim Racing Product Guide",
+      "link": "https://boostedmedia.net/",
+      "displayed_link": "https://boostedmedia.net",
+      "snippet": "Browse through reviews and recommended distributors for the Sim Racing products used and reviewed by Boosted Media. Simucube, Fanatec, Next Level Racing, ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from boostedmedia.net",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484566485925fd1a04c2c1dac9b278598691b9500d23ce60f7348164dd7834a3c0ad1455fd7441f1527aa.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://boostedmedia.net/&tbm=ilp&ilps=AC47Oe8OSYY05PBaCueAM1CMPqzF2ajdMw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Z347YkQ_yrMJ:https://boostedmedia.net/+&cd=71&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 68,
+      "title": "Simulation 1: Online Racing Game Simulators - Simulation ...",
+      "link": "https://www.simulation1.ca/",
+      "displayed_link": "https://www.simulation1.ca",
+      "snippet": "Simulation 1 has been producing the World's most advanced racing simulators Accessories,full-motion racing & flight simulators for practical & home use, ...",
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Dual Clutch System: Dual Clutches",
+            "Quick Adjust Paddles: Paddles"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.simulation1.ca",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456a14829fcce1b983417f1828dd2b3b5379e4ebc2e0d5060e109020967ed78a5adb4c30282eb8d6fbe.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.simulation1.ca/&tbm=ilp&ilps=AC47Oe8h7fSkMUWCiRSruo5TTLFLMw7ybg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-J4HzwYE560J:https://www.simulation1.ca/+&cd=72&hl=en&ct=clnk&gl=uk",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.simulation1.ca/+sim+racing+gear"
+    },
+    {
+      "position": 69,
+      "title": "Invicta™ Sim Racing Pedals Brake and Throttle – Pre Order",
+      "link": "https://abruzzi-official.co.uk/shop/wheelbase-steering-wheels/invicta-sim-racing-pedals-brake-and-throttle/",
+      "displayed_link": "https://abruzzi-official.co.uk › wheelbase-steering-wheels",
+      "snippet": "Asetek SimSports™ Invicta™ Pedals are the pinnacle of sim racing gear. The hydraulic sim racing pedals are designed with real race car feel, durability, ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 799.0,
+            "currency": "£ to £"
+          },
+          "extensions": [
+            "£799.00 to £1,098.00",
+            "‎In stock"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from abruzzi-official.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456c744ae8dabf4e37f4f174660e1f5f3ce39c53e0dc4e5425db76e53c3efa83ebf58895c225f290631.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://abruzzi-official.co.uk/shop/wheelbase-steering-wheels/invicta-sim-racing-pedals-brake-and-throttle/&tbm=ilp&ilps=AC47Oe8GrQA9oqQkcwxBTlM4Yn--RofOmQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q3A3dOmdnJwJ:https://abruzzi-official.co.uk/shop/wheelbase-steering-wheels/invicta-sim-racing-pedals-brake-and-throttle/+&cd=73&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 70,
+      "title": "How to get started in simracing esports | Top Gear",
+      "link": "https://www.topgear.com/car-news/formula-one/how-get-started-simracing-esports",
+      "displayed_link": "https://www.topgear.com › car-news › formula-one › h...",
+      "snippet": "Where motorsport has been unable to provide, simracing has stepped in. Formula One has been hosting 'Virtual Grands Prix' that feature real-life F1 pilots, ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.topgear.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456cdddf439f16ebeb115a2b57d9e838a52e3e63c7d19ce89c29562b2d3b31147d935c44300f1d41eba.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.topgear.com/car-news/formula-one/how-get-started-simracing-esports&tbm=ilp&ilps=AC47Oe_JLcp-JgFq5B-Q6ydm7G3R1Rqi7g",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MM9kHlqLFAkJ:https://www.topgear.com/car-news/formula-one/how-get-started-simracing-esports+&cd=74&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 71,
+      "title": "Best Sim Racing Cockpit for 2022 - Roadshow - CNET",
+      "link": "https://www.cnet.com/roadshow/news/best-sim-racing-cockpit/",
+      "displayed_link": "https://www.cnet.com › roadshow › news › best-sim-rac...",
+      "date": "25 Feb 2022",
+      "snippet": "A racing sim seat could help boost immersion. ... There are tons of options out there to help you kick your gaming sessions into high gear.",
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Best cheap racing sim cockpit: Next Level Raci...",
+            "Best affordable racing sim cockpit: Playseat C...",
+            "Best racing sim cockpit overall runner-up: Ope...",
+            "Best racing sim cockpit overall: Next Level Rac..."
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.cnet.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484566879a635e06e15a4233d8bca48ca7ebcec6d42b82b60e6e5b8b07c3ca315d809388dfbec42b868d8.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cnet.com/roadshow/news/best-sim-racing-cockpit/&tbm=ilp&ilps=AC47Oe_zl3HF9t1erjxK8GlcqdU-tDp7PQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LUYfn5y5z1QJ:https://www.cnet.com/roadshow/news/best-sim-racing-cockpit/+&cd=75&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 72,
+      "title": "Fanatec® - Red Bull Racing Esports Partner",
+      "link": "https://www.redbullracing.com/int-en/fanatec-red-bull-racing-esports-partner",
+      "displayed_link": "https://www.redbullracing.com › int-en › fanatec-red-bull...",
+      "date": "10 Dec 2021",
+      "snippet": "Industry leading sim racing equipment, designed for both gaming and motorsport.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.redbullracing.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456f06624893c00a7c1e23bdeb63140cb6c41b2cd7b12e79d63b6f9c33dfe36b6f3acf5c106e93867a0.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.redbullracing.com/int-en/fanatec-red-bull-racing-esports-partner&tbm=ilp&ilps=AC47Oe8s_Cg6LDYKdVvPaBjEC9cRH0U-Yg"
+    },
+    {
+      "position": 73,
+      "title": "CLUTCH KICK: Shop Racing Simulators online - Hire Racing ...",
+      "link": "https://clutchkick.com.au/",
+      "displayed_link": "https://clutchkick.com.au",
+      "snippet": "Clutch kick is one of the best racing simulation centre that offers fun and exciting ... You can start at the level that suits your current driving skills.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from clutchkick.com.au",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456d8f26bef87fbb1134fa26cf53e9e2c7fe8d6c5d89dfc7549c128527caeaf1a3dc6289f0f606af07d.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://clutchkick.com.au/&tbm=ilp&ilps=AC47Oe9ck-mstFoMvDOWR6Wv8r2fkt3HdA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AE8kzlbWIJ0J:https://clutchkick.com.au/+&cd=77&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 74,
+      "title": "VRS Sim Racing Hardware Announcement",
+      "link": "https://virtualracingschool.com/academy/further-reading/updates/vrs-sim-racing-hardware-announcement/",
+      "displayed_link": "https://virtualracingschool.com › academy › updates",
+      "date": "1 Jan 2019",
+      "snippet": "Sim racing gear is a favorite topic among sim racers because the hardware can have a massive impact on the driving experience.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from virtualracingschool.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484562ee6b652e34ed798e03e47c995cbbd058d2983c241573def6254984b44956bb37639c2e57e469708.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://virtualracingschool.com/academy/further-reading/updates/vrs-sim-racing-hardware-announcement/&tbm=ilp&ilps=AC47Oe-5yHzNUzHrpwjCvfpoOY97uQN0nw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Cy009FJQMqAJ:https://virtualracingschool.com/academy/further-reading/updates/vrs-sim-racing-hardware-announcement/+&cd=78&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 75,
+      "title": "Is More Expensive Sim Racing Equipment Worth It? - Podium ...",
+      "link": "https://www.podiumesports.com/sim-racing-equipment-upgrades-worth-it/",
+      "displayed_link": "https://www.podiumesports.com › sim-racing-equipmen...",
+      "date": "14 Dec 2021",
+      "snippet": "Of course, the real question you should be asking is “Is an upgrade to my sim racing equipment worth it?” – and if so – “Which element of my sim ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.podiumesports.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845659f6be270f1d87e0785e79f31d12d70d02a92df5bd612fcdc01bb1ec845dce2519a6810ce60e96c8.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.podiumesports.com/sim-racing-equipment-upgrades-worth-it/&tbm=ilp&ilps=AC47Oe_XgVF_UuSrHZVWTqWvMS_T2qw-YA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:na0al-PIrLcJ:https://www.podiumesports.com/sim-racing-equipment-upgrades-worth-it/+&cd=79&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 76,
+      "title": "Sim Racing Gloves and Shoes - RaceDay Safety",
+      "link": "https://www.racedaysafety.com/sim-racing-gear.html",
+      "displayed_link": "https://www.racedaysafety.com › sim-racing-gear",
+      "snippet": "Sim Race Gear Driver Motorsport Simulation is the fastest growing sector of auto racing. Whether you utilize Sim Racing to keep your skills sharp for.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.racedaysafety.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456c6e33afb4e05b5a1fdf54dfb9f26fd93b9b425d2f1eb86ac56b9bbb50f350b03501feca725746534.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.racedaysafety.com/sim-racing-gear.html&tbm=ilp&ilps=AC47Oe8HHz9V37pWlvpXBYqCNTGftejX0Q",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kEmygG-NbhQJ:https://www.racedaysafety.com/sim-racing-gear.html+&cd=80&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 77,
+      "title": "Beginners Sim Racing Setup Advice - All You Need To Know",
+      "link": "https://www.yourdatadriven.com/beginners-sim-racing-kit-list/",
+      "displayed_link": "https://www.yourdatadriven.com › Blog",
+      "snippet": "Sim Racing Wheel Types. Today there are three main types of force feedback wheel: Gear drive; Belt drive; Direct drive. These refer to the technical ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.yourdatadriven.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456ebac0717dbb064219ba336ed3b00b7841a52debacd94733de68d6b1ae0cb5da25bcaaaea926adc37.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.yourdatadriven.com/beginners-sim-racing-kit-list/&tbm=ilp&ilps=AC47Oe-GNZv35lJzrtJ_Z4xxaShXwelTng",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XwDhVSeap5EJ:https://www.yourdatadriven.com/beginners-sim-racing-kit-list/+&cd=81&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 78,
+      "title": "Sim Racing Gear Indicator FOR SALE! - PicClick UK",
+      "link": "https://picclick.co.uk/Popular/sim-racing-gear-indicator",
+      "displayed_link": "https://picclick.co.uk › sim racing gear indicator",
+      "snippet": "Sim Racing Gear Indicator FOR SALE!. Shop the Largest Selection, Click to See! Search eBay faster with PicClick. Money Back Guarantee ensures YOU receive ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from picclick.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456561de2d6343d2733de2fe8fbac106f6c801c936ef9ab0103e73019a64fb926bd38fb31e285c1edd2.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://picclick.co.uk/Popular/sim-racing-gear-indicator&tbm=ilp&ilps=AC47Oe_ihn5AbN-qul27-wGTVoKQgGhBGw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CEWQy508yeUJ:https://picclick.co.uk/Popular/sim-racing-gear-indicator+&cd=82&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 79,
+      "title": "Best racing simulator cockpits 2022 | Windows Central",
+      "link": "https://www.windowscentral.com/best-racing-simulator-cockpits",
+      "displayed_link": "https://www.windowscentral.com › Games › Accessories",
+      "date": "18 Jan 2022",
+      "snippet": "As such, a whole new audience has been introduced to the virtual racing space, and there's a ton of equipment you can get to make your ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.windowscentral.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484562dbc3eac7564a244aefcb96af6786bbbb1356448c7e6fa31deb7b8f1ff18ad8bc1758c47b6d0372e.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.windowscentral.com/best-racing-simulator-cockpits&tbm=ilp&ilps=AC47Oe8Xpoh7iuWiaTzSMgYLZRPR55J9iw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CnVpH1ZA64gJ:https://www.windowscentral.com/best-racing-simulator-cockpits+&cd=83&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 80,
+      "title": "Manual vs Paddle shifter: Which is better for sim racing?",
+      "link": "https://racinggames.gg/hardware/manual-vs-paddle-shifter-which-is-better-for-sim-racing/",
+      "displayed_link": "https://racinggames.gg › hardware › manual-vs-paddle-...",
+      "date": "19 Dec 2021",
+      "snippet": "Make sure you nail your gear changes with the right shifter. ... If you're into your racing games and own a steering wheel as part of your ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from racinggames.gg",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484560a3cdb3f35e2ba0507e451a2658768d42594c6567e30ac8d0acce9de65390b1c85d53dee9a9b7c17.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://racinggames.gg/hardware/manual-vs-paddle-shifter-which-is-better-for-sim-racing/&tbm=ilp&ilps=AC47Oe-kdHLhKQPSVZ2GpQ-1Cdc8Fu6rNw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:28_tn-smMAcJ:https://racinggames.gg/hardware/manual-vs-paddle-shifter-which-is-better-for-sim-racing/+&cd=84&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 81,
+      "title": "The 7 Best Beginners Sim Racing Wheels for PS4, Xbox One ...",
+      "link": "https://www.makeuseof.com/tag/best-sim-racing-wheel/",
+      "displayed_link": "https://www.makeuseof.com › Buyer's Guides",
+      "date": "16 Nov 2020",
+      "snippet": "First, it has an excellent build quality that combines a leather steering wheel with anodized aluminum gear shifters and an overall solid base ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Review by Gavin Phillips"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.makeuseof.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484564f5fe3623988e43992f6644a159e4f6ae8bf54cba48a88387abf313f1912a428c13b165d7bc53f58.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.makeuseof.com/tag/best-sim-racing-wheel/&tbm=ilp&ilps=AC47Oe8T8ak9RYnm775VkyeTZf0bJSjT3w",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LVVGX1G5fCcJ:https://www.makeuseof.com/tag/best-sim-racing-wheel/+&cd=85&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 82,
+      "title": "44 second-hand Racing Sims - For-sale.co.uk",
+      "link": "https://www.for-sale.co.uk/racing-sim",
+      "displayed_link": "https://www.for-sale.co.uk › racing-sim",
+      "snippet": "Racing sim for sale ✓ Playseat Challenge Playstation SIM Racing Chair: 137.00 ... moveable high stand and gear stick holder if needed only 3 weeks old.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.for-sale.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456ad7f948c95b29bdda74f9fd71449af07f9e81a5f7978db7977c49941bbc926f35d1211fdf91135d6.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.for-sale.co.uk/racing-sim&tbm=ilp&ilps=AC47Oe-s0BA0GJiQOyuOdFYq4NJpLvgBmw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pGTTJRqX5OUJ:https://www.for-sale.co.uk/racing-sim+&cd=86&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 83,
+      "title": "Steering wheels and accessories - simtag bv",
+      "link": "https://simtag.shop/gb/21-steering-wheels-and-accessories",
+      "displayed_link": "https://simtag.shop › Home › Brands › Sparco",
+      "snippet": "Ascher Racing · Steering Wheels · Precision Sim Engineering · Cube Controls · Simracing Steering wheels · Accessories · D-BOX.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from simtag.shop",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484568da4396c484bad7feb9e5c2ec66658a63ef54c212495a88b0c62ff7b3ac9795b16c4ff399c5c9a06.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://simtag.shop/gb/21-steering-wheels-and-accessories&tbm=ilp&ilps=AC47Oe-mX0uP7XBRImHzdw-Eg4vKuS9ZAg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:99-ugeFDGXYJ:https://simtag.shop/gb/21-steering-wheels-and-accessories+&cd=87&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 84,
+      "title": "How To Make Sim Racing As Realistic As Possible On PC In 6 ...",
+      "link": "https://beam.eyeware.tech/how-to-make-sim-racing-as-realistic-as-possible-on-pc-in-6-easy-ways/",
+      "displayed_link": "https://beam.eyeware.tech › Posts",
+      "date": "23 Feb 2022",
+      "snippet": "Gamers can use this specialized iracing equipment and online racing simulator software easily enough. The tools offer advanced features like ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from beam.eyeware.tech",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456fc00c2f9439d8ce284901c8b4ed8f20011b80b3667c6b22099cf0d6adc8c16f6bb76319faa86ce9e.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://beam.eyeware.tech/how-to-make-sim-racing-as-realistic-as-possible-on-pc-in-6-easy-ways/&tbm=ilp&ilps=AC47Oe-ltkqfeM7j4gpTxd4w5YGaIUEHSQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_W7cu1NfOOEJ:https://beam.eyeware.tech/how-to-make-sim-racing-as-realistic-as-possible-on-pc-in-6-easy-ways/+&cd=88&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 85,
+      "title": "How to Choose the Right Sim Wheel - Driver61",
+      "link": "https://driver61.com/sim-racing/how-to-choose-the-right-sim-wheel-sim-wheel-buyers-guide-updated-2021/",
+      "displayed_link": "https://driver61.com › sim-racing › how-to-choose-the-...",
+      "snippet": "Comparison of Direct Drive vs Belt Driven vs Gear Driven. Ride Onboard With This Porsche 904 Racing At Goodwood | FLATSIXES. Some basic criteria that make a sim ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from driver61.com"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://driver61.com/sim-racing/how-to-choose-the-right-sim-wheel-sim-wheel-buyers-guide-updated-2021/&tbm=ilp&ilps=AC47Oe9VI5wBv2_M9tpnU5F2nxl85NTcVw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CCANJZjA0YsJ:https://driver61.com/sim-racing/how-to-choose-the-right-sim-wheel-sim-wheel-buyers-guide-updated-2021/+&cd=89&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 86,
+      "title": "RSEAT Simulators – Professional Sim racing equipment",
+      "link": "https://www.rseat.net/",
+      "displayed_link": "https://www.rseat.net",
+      "snippet": "RSEAT is a leading manufacturer of premium sim-racing equipment since 2011. With the latest production technologies, experience and trained specialist staff ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.rseat.net",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484568629abe3c7e9539562a8ac9fa42863cebed9ea0f52462ec91f030aff21e454e58b7c9f4cca266ec0.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.rseat.net/&tbm=ilp&ilps=AC47Oe9XxnQVRRYQLJPGQkWOowGT4KDwgA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DR0HDZCtLSEJ:https://www.rseat.net/+&cd=90&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 87,
+      "title": "SSRG Solid Sim Racing Gear",
+      "link": "https://store10356240.ecwid.com/",
+      "displayed_link": "https://store10356240.ecwid.com",
+      "snippet": "Ssrg , Solid Sim Racing Gear , started back in july 2016 in Hoogezand the Netherlands a company that produces highend simracing hardware.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from store10356240.ecwid.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456883ff0c7056edc8d22d13543a465891a1dbb008e26df9067e1ddb98654e009f493b03afb69c48307.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://store10356240.ecwid.com/&tbm=ilp&ilps=AC47Oe9XKHVtSqm-Vejf12YUCKmAyBDBgg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0Mhdao9Soz4J:https://store10356240.ecwid.com/+&cd=91&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 88,
+      "title": "Simucube - High-end Professional Quality Sim Racing ...",
+      "link": "https://simucube.com/",
+      "displayed_link": "https://simucube.com",
+      "snippet": "Sim Racing Gear for your passion to compete. Makes racing easier than before. Race anytime, anywhere as much as you want. No exceptions.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from simucube.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456151136de703f7740d27e9dfeeba68f0df1810e50f849458d6e49c42592bd61d2b70c2c0fee0a5c42.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://simucube.com/&tbm=ilp&ilps=AC47Oe-yO-LGLZH7-bxF_Y0KIKgDgNKiHg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BJs-r5rseTwJ:https://simucube.com/+&cd=92&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 89,
+      "title": "Home Of The Low Rider, Sim Racing Stockists Shipping ...",
+      "link": "https://www.raceathome.co.uk/",
+      "displayed_link": "https://www.raceathome.co.uk",
+      "snippet": "Race@Home UK Stockists of Pimax, Yaw Vr, Meca, Pt Actuator, OBP, Gomez GSI Wheels, Scorpion actuators & Sim Racing Equipment. UK Next Day Delivery ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.raceathome.co.uk",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456c96b7aad38ff06a21d476204588ba85575c646ceacb49f4482b1c24cc035a3cedeae89624f0cdb1b.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.raceathome.co.uk/&tbm=ilp&ilps=AC47Oe-cdXChsgIrtxDvWFnUfpSlx9EQPA"
+    },
+    {
+      "position": 90,
+      "title": "Racing + Flight Simulators For Gaming - JB Hi-Fi",
+      "link": "https://www.jbhifi.com.au/collections/games-consoles/racing-flight-sim-gear",
+      "displayed_link": "https://www.jbhifi.com.au › ... › PC Gaming accessories",
+      "snippet": "Experience smooth, quiet steering action with our racing and flight sim gear for PS4, Xbox and more! Discover our gaming accessories at JB Hi-Fi now.",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.jbhifi.com.au",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456475e6aa5d79eb41c603a2e1a2d427626522d55a738ef206e30e8f5ca850c73831985ceafc95377a2.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.jbhifi.com.au/collections/games-consoles/racing-flight-sim-gear&tbm=ilp&ilps=AC47Oe-K2iAKmAB3F5pFixnP1Pq_t9jHlg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mqSDNwuLm88J:https://www.jbhifi.com.au/collections/games-consoles/racing-flight-sim-gear+&cd=94&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 91,
+      "title": "My Sim Racing Gear",
+      "link": "https://prosimracingteam.com/mysimracinggear/",
+      "displayed_link": "https://prosimracingteam.com › mysimracinggear",
+      "snippet": "This is a list of the Sim Racing Gear that I use to make my YouTube videos and ... This is a precise replica of the BMW M3 GT2 race car steering wheel, ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from prosimracingteam.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456f2579001edab8f9cd458e233071cdc7763a48f768ade903c361a4dac56fb4579d69ed5fb44e305ef.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://prosimracingteam.com/mysimracinggear/&tbm=ilp&ilps=AC47Oe-w23qJNNrueUpl1Tc4gkq43gsVdg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:itjt7PhjZ_4J:https://prosimracingteam.com/mysimracinggear/+&cd=95&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 92,
+      "title": "Welcome to Sim Racing Pros, Simagic Official distributor ...",
+      "link": "https://simracingpros.com/",
+      "displayed_link": "https://simracingpros.com",
+      "snippet": "SIMAGIC US&CA Official Distributors ,AZ RACING Authorized distributor, your source for professional sim racing rigs and hardware.Sim Racing Pros from Canada ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from simracingpros.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b14845677b5ad97cbfd8a8d2cfed8a8369db7f0a5973376d14336ee1d9726499867e05f8ba5e48d45c0f002.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://simracingpros.com/&tbm=ilp&ilps=AC47Oe8KSwQvGTQSgzE4MLAwCW-LmK3gPw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:i9Wg3WhhCHgJ:https://simracingpros.com/+&cd=96&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 93,
+      "title": "Sim Racing Expert – Box, box",
+      "link": "https://www.simracingexpert.com/",
+      "displayed_link": "https://www.simracingexpert.com",
+      "snippet": "Simucube is usually compared with high tech racing wheel bases from Fanatec because of the attention to detail. In this […] Read More · Gear · MONITOR SETUP. 07 ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.simracingexpert.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484564f461b6e51ba9218cc9d380f5f195973d28e3e2ae8f8c4a60b4a91015c1146c6232fc1a6d40a58ef.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.simracingexpert.com/&tbm=ilp&ilps=AC47Oe8jcEsshPYb3Qxr4yUlDRNvOKMfRg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AFUp85Ahy0MJ:https://www.simracingexpert.com/+&cd=97&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 94,
+      "title": "iRacing Equipment Guide To Get Started Sim Racing",
+      "link": "https://www.brookracing.com/index.php/2020/03/24/iracing-equipment/",
+      "displayed_link": "https://www.brookracing.com › Blog",
+      "date": "24 Mar 2020",
+      "snippet": "I'll be covering all matters of sim racing gear to help you get started on your sim racing journey. A little about myself. If you are a first- ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.brookracing.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456d546590e88e7b9476719e2c2c98ddfa14a2613fd8701ca25a8e28eaa3dcb4442c26ed6f868a87754.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.brookracing.com/index.php/2020/03/24/iracing-equipment/&tbm=ilp&ilps=AC47Oe9UGouxonhRpZptNZJUZeklBGKAzQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:11VuaGjjftwJ:https://www.brookracing.com/index.php/2020/03/24/iracing-equipment/+&cd=98&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 95,
+      "title": "Sim racing - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Sim_racing",
+      "displayed_link": "https://en.wikipedia.org › wiki › Sim_racing",
+      "snippet": "Sim (simulated) racing or racing simulation are the collective terms for racing game ... or downshift the gear during corners to avoid the risk of losing control, ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from en.wikipedia.org",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456db5052d7047b15a7721ed32730949c836e1dfdb090872693506f25c7c43b6a512b82fa9a8445c659.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Sim_racing&tbm=ilp&ilps=AC47Oe-d6q7jOWbV4C8bKQcXPwyU2V9S3Q",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xCrEMTqSGGkJ:https://en.wikipedia.org/wiki/Sim_racing+&cd=99&hl=en&ct=clnk&gl=uk",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Sim_racing+sim+racing+gear"
+    },
+    {
+      "position": 96,
+      "title": "Sim Racing Gear - Automobiles, Parts & Accessories",
+      "link": "https://www.aliexpress.com/w/wholesale-sim-racing-gear.html",
+      "displayed_link": "https://www.aliexpress.com › Consumer Electronics",
+      "snippet": "Sim racing gear is a new innovative way to get more and more fun. And the new racing wheel in the line with a variety of different colors is designed to be ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.aliexpress.com",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b1484569b2ef22844c21f6cddf9564baba1cd7dedbe0d1c61195b32931ff31801cce1e6e92f2fc77c3231c6.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.aliexpress.com/w/wholesale-sim-racing-gear.html&tbm=ilp&ilps=AC47Oe-716pf__ZhrTFYFRHiXoOrRk3sag",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yCH19aZbm1EJ:https://www.aliexpress.com/w/wholesale-sim-racing-gear.html+&cd=100&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 97,
+      "title": "Hardware, News & Reviews - SimRaceBlog",
+      "link": "https://www.simrace-blog.nl/en/",
+      "displayed_link": "https://www.simrace-blog.nl › ...",
+      "snippet": "We also enjoy testing, reviewing and writing about sim racing hardware. We have grown into a fixed value within the simrace community with a large number of ...",
+      "about_this_result": {
+        "source": {
+          "description": "This result comes from www.simrace-blog.nl",
+          "icon": "https://serpapi.com/searches/6253dce62d5b12c485f0879a/images/5a1fc10e3c33381b601d5bb03b148456377a437e69e8669bb582ff374802d0728129a2ecbd50ee2b0607d74cdb286e3d52398fd4241ad988.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.simrace-blog.nl/en/&tbm=ilp&ilps=AC47Oe_0vBuhcQjh24bSu2hE-ZZH0At8PQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jWDhFiklu14J:https://www.simrace-blog.nl/en/+&cd=101&hl=en&ct=clnk&gl=uk"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "sim racing gear shifter",
+      "link": "https://www.google.com/search?num=100&q=Sim+racing+gear+shifter&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q1QJ6BAhPEAE"
+    },
+    {
+      "query": "cheap sim racing gear",
+      "link": "https://www.google.com/search?num=100&q=Cheap+sim+racing+gear&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q1QJ6BAhOEAE"
+    },
+    {
+      "query": "sim racing shop",
+      "link": "https://www.google.com/search?num=100&q=Sim+Racing+Shop&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q1QJ6BAhNEAE"
+    },
+    {
+      "query": "sim racing gear shifter mount",
+      "link": "https://www.google.com/search?num=100&q=Sim+racing+gear+Shifter+mount&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q1QJ6BAhMEAE"
+    },
+    {
+      "query": "sim racing pedals",
+      "link": "https://www.google.com/search?num=100&q=Sim+racing+pedals&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q1QJ6BAhLEAE"
+    },
+    {
+      "query": "sim racing rig",
+      "link": "https://www.google.com/search?num=100&q=Sim+racing+rig&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q1QJ6BAhTEAE"
+    },
+    {
+      "query": "demon tweeks sim racing",
+      "link": "https://www.google.com/search?num=100&q=Demon+Tweeks+Sim+Racing&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q1QJ6BAhSEAE"
+    },
+    {
+      "query": "sim racing bundle",
+      "link": "https://www.google.com/search?num=100&q=Sim+racing+Bundle&sa=X&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q1QJ6BAhQEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=sim+racing+gear&num=100&ei=6txTYur2IYet_QaTx47oBA&start=100&sa=N&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q8NMDegQIARA6",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=sim+racing+gear&num=100&ei=6txTYur2IYet_QaTx47oBA&start=100&sa=N&ved=2ahUKEwjqk6itwov3AhWHVt8KHZOjA00Q8tMDegQIARA4"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=sim+racing+gear&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=sim+racing+gear&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=100&q=sim+racing+gear&start=100"
+    }
+  }
+}

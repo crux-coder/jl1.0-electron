@@ -1,0 +1,576 @@
+{
+  "search_metadata": {
+    "id": "6251853e2236e2b740ef87ad",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4946b3dbb6b16e36/6251853e2236e2b740ef87ad.json",
+    "created_at": "2022-04-09 13:08:14 UTC",
+    "processed_at": "2022-04-09 13:08:14 UTC",
+    "google_url": "https://www.google.co.uk/search?q=Coffee&oq=Coffee&uule=w+CAIQICIOVW5pdGVkIEtpbmdkb20&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4946b3dbb6b16e36/6251853e2236e2b740ef87ad.html",
+    "total_time_taken": 4.96
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Coffee",
+    "location_requested": "United Kingdom",
+    "location_used": "United Kingdom",
+    "google_domain": "google.co.uk",
+    "hl": "en",
+    "gl": "uk",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "Coffee",
+    "total_results": 4610000000,
+    "time_taken_displayed": 0.6
+  },
+  "knowledge_graph": {
+    "title": "Coffee",
+    "type": "Drink",
+    "header_images": [
+      {
+        "source": "https://en.wikipedia.org/wiki/Coffee"
+      },
+      {
+        "source": "https://www.nbcnews.com/better/lifestyle/how-tap-health-benefits-coffee-ncna1096031"
+      },
+      {
+        "source": "https://www.medicalnewstoday.com/articles/270202"
+      },
+      {
+        "source": "https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/"
+      },
+      {
+        "source": "https://www.worldatlas.com/articles/top-10-coffee-consuming-nations.html"
+      }
+    ],
+    "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain flowering plants in the Coffea genus. From the coffee fruit, the seeds are separated to produce a stable, raw product: unroasted green coffee.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    "people_also_search_for": [
+      {
+        "name": "Tea",
+        "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Tea&si=ANhW_NrAsNux2XRT8PWN_89z-Y9evUSuH-e-zTPDDMWEqKR-OE6eVf_p_2_-08uPOUcihTQk4wuK613H7zMNGj2wSIWtq0mgRs2j-CrKaL5HjKXQC1S9v-M928111NsA9E8uOOgLhQRMbKrSfoVOuQIve57LcRIwvVrNHmtIDShXB-RsBrVOL7NQjt1zivT9BcfZfs64L-B_EHGaThpbj4aTSHgRtklZFy_Cudt8nOj7SsQVduJZRSH9jQe0bg9dJAyBA7o5BicQAoNXBjbmNlNfFa9-MKIpVA%3D%3D&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQxA16BAh9EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Tea&si=ANhW_NrAsNux2XRT8PWN_89z-Y9evUSuH-e-zTPDDMWEqKR-OE6eVf_p_2_-08uPOUcihTQk4wuK613H7zMNGj2wSIWtq0mgRs2j-CrKaL5HjKXQC1S9v-M928111NsA9E8uOOgLhQRMbKrSfoVOuQIve57LcRIwvVrNHmtIDShXB-RsBrVOL7NQjt1zivT9BcfZfs64L-B_EHGaThpbj4aTSHgRtklZFy_Cudt8nOj7SsQVduJZRSH9jQe0bg9dJAyBA7o5BicQAoNXBjbmNlNfFa9-MKIpVA%3D%3D",
+        "image": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d695f47e48a5e0328e3f9c7165c22413dec2fd6f03322f126050ba993076ca13adb31936cbe043a42b8dea97150ae84b.jpeg"
+      },
+      {
+        "name": "Espresso",
+        "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Espresso&si=ANhW_NrAsNux2XRT8PWN_89z-Y9evUSuH-e-zTPDDMWEqKR-OLYeR2k9L3zf9oGPY79Xt7SC04v6g2QoJyOOZhAUBHJq0ScZzOIQP8LS7BZ67cWJUFTObHkCBnIqFYUtrjF97FVDCVmdSwe-3euFkH42LdGEFPmT1ezORr_n_l0TVKO9c7R8UbH6Vd7z8L__yNn9MxMeCnrWqLKYhclQWEkzZPNykosjv-Lthhl3xePoMSh0XEOTdd03WvCQtmwGVVrGc00RRnoaELItD53YxMJsKgzQ-ceFnrvO4aNooaj2bwar9NVW-hY%3D&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQxA16BAh9EAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Espresso&si=ANhW_NrAsNux2XRT8PWN_89z-Y9evUSuH-e-zTPDDMWEqKR-OLYeR2k9L3zf9oGPY79Xt7SC04v6g2QoJyOOZhAUBHJq0ScZzOIQP8LS7BZ67cWJUFTObHkCBnIqFYUtrjF97FVDCVmdSwe-3euFkH42LdGEFPmT1ezORr_n_l0TVKO9c7R8UbH6Vd7z8L__yNn9MxMeCnrWqLKYhclQWEkzZPNykosjv-Lthhl3xePoMSh0XEOTdd03WvCQtmwGVVrGc00RRnoaELItD53YxMJsKgzQ-ceFnrvO4aNooaj2bwar9NVW-hY%3D",
+        "image": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d695f47e48a5e0328e3f9c7165c22413dec2fd6f03322f126050ba993076ca1354e16f30cdf64d9884a3aa874dc9774c.jpeg"
+      },
+      {
+        "name": "Beverage",
+        "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Beverage&si=ANhW_NqV8qI35yj8Nx6orC9ZgA9-mqoEvL1o3gu1i7LL5wSj5RVCr-5i3eJefp2mQJnTeN7HwNmMnqSD17sF5VvL6M7ujCZcXf1lLgxSWWvaAKU4ahQm2sD2s5lEEQt9DSuyzmKdsID-Uq3Kdi4I69J0mDXmFfv2tbJL7IE8REvzNZfnWem199itu5ewgf23Y7CSl50sqSMfIFlX5JiI12BNU7v6FmpJlKdvMsm6ifNxslXYQqMabB7HZbo1P7QwhkrWO5CZpkHP2kWm3FzXyJfR7GNUHgD50TeVmTNXeD0Dpg6-HgIti-0%3D&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQxA16BAh9EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Beverage&si=ANhW_NqV8qI35yj8Nx6orC9ZgA9-mqoEvL1o3gu1i7LL5wSj5RVCr-5i3eJefp2mQJnTeN7HwNmMnqSD17sF5VvL6M7ujCZcXf1lLgxSWWvaAKU4ahQm2sD2s5lEEQt9DSuyzmKdsID-Uq3Kdi4I69J0mDXmFfv2tbJL7IE8REvzNZfnWem199itu5ewgf23Y7CSl50sqSMfIFlX5JiI12BNU7v6FmpJlKdvMsm6ifNxslXYQqMabB7HZbo1P7QwhkrWO5CZpkHP2kWm3FzXyJfR7GNUHgD50TeVmTNXeD0Dpg6-HgIti-0%3D",
+        "image": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d695f47e48a5e0328e3f9c7165c22413dec2fd6f03322f126050ba993076ca13c4b99629bc4b65df8e470a9972787aa1.jpeg"
+      },
+      {
+        "name": "Iced coffee",
+        "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Iced+coffee&si=ANhW_NqMq05hm_NHatki2oB83qRn9HU6YTauVAJv82wgMbWR1RQm0qPEsu5ks9zupNycz9MPBHpSAdPXLFZHCFkHknR3Q6aRbjAUWJH7FhSUaH8wbnFuBBshj0yQCs9pwoRxNSy58fJKV7uuQAO-2uBt3Rd66QEXIlUZo-s4PaiOxmtjswCCJy89muPQzuzUFNaAvA0_quSgCZyY1Cu94RmUoXubc8GWptiIggsQUys5iQESJr6DlEDGD9jVG_4D-kA-Sg0ORiOf8YlnL-rwP_pDWRoj-9wFeW-hjqz4k2JmgqgA6PHbXHw%3D&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQxA16BAh9EAs",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Iced+coffee&si=ANhW_NqMq05hm_NHatki2oB83qRn9HU6YTauVAJv82wgMbWR1RQm0qPEsu5ks9zupNycz9MPBHpSAdPXLFZHCFkHknR3Q6aRbjAUWJH7FhSUaH8wbnFuBBshj0yQCs9pwoRxNSy58fJKV7uuQAO-2uBt3Rd66QEXIlUZo-s4PaiOxmtjswCCJy89muPQzuzUFNaAvA0_quSgCZyY1Cu94RmUoXubc8GWptiIggsQUys5iQESJr6DlEDGD9jVG_4D-kA-Sg0ORiOf8YlnL-rwP_pDWRoj-9wFeW-hjqz4k2JmgqgA6PHbXHw%3D",
+        "image": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d695f47e48a5e0328e3f9c7165c22413dec2fd6f03322f126050ba993076ca135afcc721708f051e69449a3458dcd5a5.jpeg"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Coffee&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GyOeenpaWm7mBlBABkIv_mNwAAAA&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQMSgAegQIfRAB",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GyOeenpaWm7mBlBABkIv_mNwAAAA",
+    "see_results_about": [
+      {
+        "name": "Coffee bean",
+        "extensions": [
+          "A coffee bean is a seed of the Coffea plant and the source for ..."
+        ],
+        "image": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d695f47e48a5e0328e3f9c7165c224139cd78622d2716531c63a71757f34bcff4ed14fc69cbd2173cf950f98c73f38d3.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0 g",
+        "0%"
+      ],
+      "saturated_fat": [
+        "0 g",
+        "0%"
+      ],
+      "trans_fat_regulation": [
+        "0 g"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "2 mg",
+        "0%"
+      ],
+      "potassium": [
+        "49 mg",
+        "1%"
+      ],
+      "total_carbohydrate": [
+        "0 g",
+        "0%"
+      ],
+      "dietary_fiber": [
+        "0 g",
+        "0%"
+      ],
+      "sugar": [
+        "0 g"
+      ],
+      "protein": [
+        "0.1 g",
+        "0%"
+      ],
+      "caffeine": [
+        "40 mg"
+      ],
+      "vitamin_c": [
+        "0%"
+      ],
+      "calcium": [
+        "0%"
+      ],
+      "iron": [
+        "0%"
+      ],
+      "vitamin_d": [
+        "0%"
+      ],
+      "vitamin_b6": [
+        "0%"
+      ],
+      "cobalamin": [
+        "0%"
+      ],
+      "magnesium": [
+        "0%"
+      ]
+    }
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Beabadoobee - Coffee",
+      "link": "https://www.youtube.com/watch?v=C6CeA6vRtW4",
+      "thumbnail": "https://i.ytimg.com/vi/C6CeA6vRtW4/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lxlj8mR2orEkgAvcZU4MwOpbl3YQ",
+      "channel": "Beabadoobee",
+      "duration": "1:58",
+      "platform": "YouTube",
+      "date": "26 Mar 2020"
+    },
+    {
+      "position": 2,
+      "title": "What Coffee Looks Like Around The World",
+      "link": "https://www.youtube.com/watch?v=VqANgtxKLbM",
+      "thumbnail": "https://i.ytimg.com/vi/VqANgtxKLbM/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3n5RlJUhKu-ip21iBiRrpA-75YfGg",
+      "channel": "Food Insider",
+      "duration": "4:33",
+      "platform": "YouTube",
+      "date": "28 Jun 2019",
+      "key_moments": [
+        {
+          "time": "00:28",
+          "title": "Vietnam",
+          "link": "https://www.youtube.com/watch?v=VqANgtxKLbM&t=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGmRwLiRMFRGLVsgfpKSTUmVdXGvoZVd6o_rQspj-Wg&s",
+          "percentage": 10
+        },
+        {
+          "time": "00:44",
+          "title": "Australia",
+          "link": "https://www.youtube.com/watch?v=VqANgtxKLbM&t=44",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS420wsE1NnzmMIEwcDZUqqNWqNb7JJOLmIlhaHLRWvIA&s",
+          "percentage": 16
+        },
+        {
+          "time": "00:57",
+          "title": "South India",
+          "link": "https://www.youtube.com/watch?v=VqANgtxKLbM&t=57",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WxpqvMns_9BYNYCGbfzmUSFpdBzIzGRsBwPvJ6aVxA&s",
+          "percentage": 21
+        },
+        {
+          "time": "01:17",
+          "title": "Ethiopia",
+          "link": "https://www.youtube.com/watch?v=VqANgtxKLbM&t=77",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8VgPsCp0H_U8ftkcAaCbe3tpZdhn8BrHDikzCSV4eQ&s",
+          "percentage": 28
+        },
+        {
+          "time": "01:43",
+          "title": "Middle East",
+          "link": "https://www.youtube.com/watch?v=VqANgtxKLbM&t=103",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrz4ub88vXv9xEB2MX1UxvcUqs4_cw2w7TmC49HQ07A&s",
+          "percentage": 38
+        },
+        {
+          "time": "03:01",
+          "title": "Sweden & Finland",
+          "link": "https://www.youtube.com/watch?v=VqANgtxKLbM&t=181",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi-zZx85lq9gwVbp88OuInmz1Sy1seu-U0qpk-03kQmQ&s",
+          "percentage": 66
+        },
+        {
+          "time": "03:16",
+          "title": "Ireland",
+          "link": "https://www.youtube.com/watch?v=VqANgtxKLbM&t=196",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZptt8h8kA47w_Ez6UytyEw-aR5KSAqutsPihZgdR_9A&s",
+          "percentage": 72
+        },
+        {
+          "time": "03:31",
+          "title": "Spain",
+          "link": "https://www.youtube.com/watch?v=VqANgtxKLbM&t=211",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6mjRjpxqsWqPBHii4XAlqfX_UeGrpwDMsRcgSif0RA&s",
+          "percentage": 77
+        },
+        {
+          "time": "03:46",
+          "title": "Cuba",
+          "link": "https://www.youtube.com/watch?v=VqANgtxKLbM&t=226",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJxYD73K_NBTSx60ed1X-JMnIbf6hAz_VDGi58BM0cg&s",
+          "percentage": 83
+        },
+        {
+          "time": "04:17",
+          "title": "Brazil",
+          "link": "https://www.youtube.com/watch?v=VqANgtxKLbM&t=257",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79qst6AaaHvftUq5Iw2Qx3EAK5Ajirhz8S47UWdBJqQ&s",
+          "percentage": 94
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Britain's love affair with coffee - 6 Minute English",
+      "link": "https://www.youtube.com/watch?v=fJoCs5Z_QvE",
+      "thumbnail": "https://i.ytimg.com/vi/fJoCs5Z_QvE/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mlXnJIQ__yVod3syiMHvsBUPD2nQ",
+      "channel": "BBC Learning English",
+      "duration": "6:20",
+      "platform": "YouTube",
+      "date": "1 day ago"
+    }
+  ],
+  "discover_more_places": [
+    {
+      "title": "Best coffee",
+      "snippet": "Lovecrumbs West Port, The Milkman, and more",
+      "link": "https://www.google.co.uk/search?gl=uk&hl=en&tbm=lcl&q=best+coffee&rflfq=1&num=10&uule=w+CAQQCFISCamRx0IRO1oCEXoliDJDoPjE&lsspp=CVxMMMHAZ3o3CT_OZoaYZzsuCVckr-GcSmMC&rlt=Best+coffee&owsq=Coffee&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ9s8CegQIMhAE",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipOvFmMzA1FTCbuqm60Sz2f2DZlJ3AdOgx9uCWSI=w102-h115-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipM6MLU8IPS58KStjAmVp-f5RPPE7YpY0sqEhgdh=w102-h57-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipOCk3qSUJsxjctPrqPegk4IhpGbfcFe_HEW0G8x=w102-h57-n-k-no"
+      ]
+    },
+    {
+      "title": "Coffee and Wi-Fi",
+      "snippet": "LOWDOWN, Black Medicine Coffee Co, and more",
+      "link": "https://www.google.co.uk/search?gl=uk&hl=en&tbm=lcl&q=cafe+with+wifi&rflfq=1&num=10&uule=w+CAQQCFISCamRx0IRO1oCEXoliDJDoPjE&lsspp=Cb2HQeltylZCCe0d5c-lJBGUCTrAx8wQSCsn&rlt=Coffee+and+Wi-Fi&owsq=Coffee&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ9s8CegQIMhAG",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipPN-iMoWzFm64r2hZS3hpuGp3GdZkW0rXVD92JU=w102-h115-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipN-6rgj06JvBCj0cRxROowFBEN2byUI3C79XQ08=w102-h57-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipOGvsXHGwIst2J7M99-YWopJK1ms3faytHnO32R=w102-h57-n-k-no"
+      ]
+    },
+    {
+      "title": "Coffee shops",
+      "snippet": "Fortitude Coffee, Steampunk Coffee, and more",
+      "link": "https://www.google.co.uk/search?gl=uk&hl=en&tbm=lcl&q=coffee+shop&rflfq=1&num=10&uule=w+CAQQCFISCamRx0IRO1oCEXoliDJDoPjE&lsspp=CeQJUTtIVH0LCQegRqrzbA-1CYDllSfs7uPX&rlt=Coffee+shops&owsq=Coffee&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ9s8CegQIMhAI",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipMXlShRtGJ6EhIAjcJkC10KZA8FxkmLHtySlVgM=w102-h115-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipMGIKYKedKMeFiHINXRUBFijNvIYUxlqt_DaITo=w102-h57-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipPDovlfeLz5533uGbY3J4hIh7ccoHWEff6Dq5c=w102-h57-n-k-no"
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is coffee good for your health?",
+      "snippet": "“For most people, moderate coffee consumption can be incorporated into a healthy diet.” Hu said that moderate coffee intake—about 2–5 cups a day—is linked to a lower likelihood of type 2 diabetes, heart disease, liver and endometrial cancers, Parkinson's disease, and depression.",
+      "title": "Is coffee good or bad for your health? | News",
+      "link": "https://www.hsph.harvard.edu/news/hsph-in-the-news/is-coffee-good-or-bad-for-your-health/",
+      "displayed_link": "https://www.hsph.harvard.edu › news › hsph-in-the-news"
+    },
+    {
+      "question": "Is coffee made from poop?",
+      "snippet": "This is bad news for civets. It's the world's most expensive coffee, and it's made from poop. Or rather, it's made from coffee beans that are partially digested and then pooped out by the civet, a catlike creature. A cup of kopi luwak, as it's known, can sell for as much as $80 in the United States.29 Apr 2016",
+      "title": "The Disturbing Secret Behind the World's Most Expensive Coffee",
+      "link": "https://www.nationalgeographic.com/animals/article/160429-kopi-luwak-captive-civet-coffee-Indonesia",
+      "displayed_link": "https://www.nationalgeographic.com › animals › article"
+    },
+    {
+      "question": "What are benefits of coffee?",
+      "title": "9 Unique Benefits of Coffee",
+      "link": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee",
+      "list": [
+        "Boosts energy levels. ... ",
+        "May be linked to a lower risk of type 2 diabetes. ... ",
+        "Could support brain health. ... ",
+        "May promote weight management. ... ",
+        "Linked to a lower risk of depression. ... ",
+        "Could protect against liver conditions. ... ",
+        "Supports heart health. ... ",
+        "Could increase longevity."
+      ],
+      "displayed_link": "https://www.healthline.com › nutrition › top-evidence-bas..."
+    },
+    {
+      "question": "What are the 4 types of coffee?",
+      "title": "The four main coffee types are Arabica, Robusta, Excelsa, and Liberica and all four of them have radically different taste profiles.",
+      "link": "https://www.cafedirect.co.uk/shop/coffee-bean-types-and-their-characteristics/",
+      "list": [
+        "Arabica. ... ",
+        "Robusta. ... ",
+        "Liberica. ... ",
+        "Excelsa."
+      ],
+      "displayed_link": "https://www.cafedirect.co.uk › shop › coffee-bean-types-a..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Coffee - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Coffee",
+      "displayed_link": "https://en.wikipedia.org › wiki › Coffee",
+      "thumbnail": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bce3bc11fd6c160108d58321d61f807de70.jpeg",
+      "snippet": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain flowering plants in the Coffea genus. From the coffee fruit, ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Coffea",
+            "link": "https://en.wikipedia.org/wiki/Coffea"
+          },
+          {
+            "title": "Coffee bean",
+            "link": "https://en.wikipedia.org/wiki/Coffee_bean"
+          },
+          {
+            "title": "Coffee preparation",
+            "link": "https://en.wikipedia.org/wiki/Coffee_preparation"
+          },
+          {
+            "title": "Coffee roasting",
+            "link": "https://en.wikipedia.org/wiki/Coffee_roasting"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Region of origin: Horn of Africa and ‎South Ara...‎",
+            "Color: Black, dark brown, light brown, beige",
+            "Introduced: 15th century"
+          ],
+          "detected_extensions": {
+            "introduced_th_century": 15
+          }
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wikipedia is a multilingual open online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+          "icon": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bcef63c3db50858d37b7e37411cc64048ab211aa1f4bc3ff59311163130d8f40ba6.png"
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:U6oJMnF-eeUJ:https://en.wikipedia.org/wiki/Coffee+&cd=14&hl=en&ct=clnk&gl=uk",
+      "related_pages_link": "https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://en.wikipedia.org/wiki/Coffee+Coffee"
+    },
+    {
+      "position": 2,
+      "title": "Costa Coffee: The Nation's Favourite Coffee Shop",
+      "link": "https://www.costa.co.uk/",
+      "displayed_link": "https://www.costa.co.uk",
+      "snippet": "Costa is the Nation's Favourite coffee shop and the largest and fastest growing coffee shop chain in the UK.",
+      "about_this_result": {
+        "source": {
+          "description": "Costa Coffee is a British coffeehouse chain with headquarters in Dunstable, England.\nCosta Coffee was founded in London in 1971 by brothers Bruno and Sergio Costa as a wholesale operation supplying roasted coffee to caterers and specialist Italian coffee shops.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Costa_Coffee",
+          "icon": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bce1f2fab8b9bc3ff0bdbe1c318eb541608df6eb7fb2087eea66f539d0043049047.png"
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:COokErdTY4kJ:https://www.costa.co.uk/+&cd=15&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 3,
+      "title": "Starbucks: Homepage",
+      "link": "https://www.starbucks.co.uk/",
+      "displayed_link": "https://www.starbucks.co.uk",
+      "thumbnail": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bce0c1edd7b4809c686f49c3f4204ae6ed6.jpeg",
+      "snippet": "About us. About Us · Our Coffees · Starbucks Stories & News · Starbucks® Ready to Drink · Foodservice Coffee · Customer Service · Tax Strategy 2021 · Careers.",
+      "about_this_result": {
+        "source": {
+          "description": "Starbucks Corporation is an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. It is the world's largest coffeehouse chain.\nAs of November 2021, the company had 33,833 stores in 80 countries, 15,444 of which were located in the United States.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Starbucks",
+          "icon": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bce2c91a00da89dab34ae7ddacace99535097c02e7b69c1fc7d5415f6de8598033e.png"
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0an2sfH4NrYJ:https://www.starbucks.co.uk/+&cd=16&hl=en&ct=clnk&gl=uk",
+      "related_pages_link": "https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://www.starbucks.co.uk/+Coffee"
+    },
+    {
+      "position": 4,
+      "title": "Coffee Beans | Blended Coffee | Whittard of Chelsea ...",
+      "link": "https://www.whittard.co.uk/coffee",
+      "displayed_link": "https://www.whittard.co.uk › coffee",
+      "thumbnail": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bcef0843fa4dbbbf600fbe0206ce43f4f8a.jpeg",
+      "snippet": "Whether you prefer whole coffee beans or freshly ground coffee, Whittard of Chelsea's selection of light, medium and dark roast luxury coffees has something ...",
+      "about_this_result": {
+        "source": {
+          "description": "Whittard of Chelsea is a British chain of shops selling coffee, tea and related products. It was started by Walter Whittard in 1886, and remained in his family until 1973. In 1996 it was floated on the Alternative Investment Market, and expanded rapidly, building a chain of about 120 shops and several tea rooms.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Whittard_of_Chelsea",
+          "icon": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bce077f4c17fd8d49206111bfb0e44aa590d43f57eafc3aeb69a9dbc37e6facb528.png"
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:k7W_IMNsJCwJ:https://www.whittard.co.uk/coffee+&cd=17&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 5,
+      "title": "Pact Coffee: The UK's Best Coffee Delivery & Subscription ...",
+      "link": "https://www.pactcoffee.com/",
+      "displayed_link": "https://www.pactcoffee.com",
+      "thumbnail": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bcedd900e9aabe0e507f2582ee7612e8349.jpeg",
+      "snippet": "Make a Pact to enjoy better coffee. ... Kick-start your morning routine with flexible coffee subscriptions, crafted by experts. Discover our current menu.",
+      "about_this_result": {
+        "source": {
+          "description": "pactcoffee.com was first indexed by Google in May 2013",
+          "icon": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bcea00f272df91f084ec661bb6682afbe6b39dfe4370915fcab9f137cf3a3f04fbc.png"
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FTC5Mv5FKJIJ:https://www.pactcoffee.com/+&cd=18&hl=en&ct=clnk&gl=uk",
+      "related_pages_link": "https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://www.pactcoffee.com/+Coffee"
+    },
+    {
+      "position": 6,
+      "title": "Coffee Beans – Best in the UK",
+      "link": "https://www.coffee-direct.co.uk/collections/all-coffees",
+      "displayed_link": "https://www.coffee-direct.co.uk › collections › all-coffees",
+      "thumbnail": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bce158091d01788022453f18e5855203737.jpeg",
+      "date": "112 results",
+      "snippet": "Coffee Beans. Browse through our entire range of coffees, or select specific types using the options in the menu. We roast over 100 varieties of ...",
+      "about_this_result": {
+        "source": {
+          "description": "coffee-direct.co.uk was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bcebe47f155b322a6ea40530075479eb42645f3c7ccb1ae7faffded8566ea167162.png"
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2KxE9hIkm2sJ:https://www.coffee-direct.co.uk/collections/all-coffees+&cd=19&hl=en&ct=clnk&gl=uk",
+      "related_pages_link": "https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://www.coffee-direct.co.uk/collections/all-coffees+Coffee"
+    },
+    {
+      "position": 7,
+      "title": "Monmouth Coffee Company | London Roasters & Shops",
+      "link": "https://www.monmouthcoffee.co.uk/",
+      "displayed_link": "https://www.monmouthcoffee.co.uk",
+      "snippet": "We roast coffee from single farms, estates and cooperatives. When we taste a coffee that we like, we want to know where it comes from and who grows, ...",
+      "about_this_result": {
+        "source": {
+          "description": "Monmouth Coffee Company is a coffee roaster, retailer and wholesaler in London, which was founded in 1978. It played an important role in regenerating Neal's Yard and Borough Market.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Monmouth_Coffee_Company",
+          "icon": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bce7e48a1cb13d3f6d0faad1a2d30d135c967f0077948e7e1d29ea85c2e62aad5f3.png"
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:37uJF_6PgQAJ:https://www.monmouthcoffee.co.uk/+&cd=20&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 8,
+      "title": "Coffee health benefits: Diabetes, heart health, liver cancer ...",
+      "link": "https://www.medicalnewstoday.com/articles/270202",
+      "displayed_link": "https://www.medicalnewstoday.com › articles",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx54gf1b9IQ8FgKg61rexAy7eg75fadUSdN0UbsDUG7HQjPl8QwI2N&usqp=CAE&s",
+      "date": "7 Nov 2019",
+      "snippet": "The main psychoactive ingredient in coffee is caffeine. This is a compound that naturally derives from over 60 different plant sourcesTrusted ...",
+      "about_this_result": {
+        "source": {
+          "description": "Medical News Today is a web-based outlet for medical information and news, targeted at both the general public and physicians. All posted content is available online, and the earliest available article dates from May 2003.\nThe website has been owned by Healthline Media since 2016.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Medical_News_Today",
+          "icon": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bce5bee74839074d4ab2ba360e34f5b30fd4d157358821b59d67afff49b2b528633.png"
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kzmdGVh8xu0J:https://www.medicalnewstoday.com/articles/270202+&cd=24&hl=en&ct=clnk&gl=uk"
+    },
+    {
+      "position": 9,
+      "title": "Workshop Coffee",
+      "link": "https://workshopcoffee.com/",
+      "displayed_link": "https://workshopcoffee.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0gz9OnkTaSF-pAdjvAUHUJ-y25J1e9vKGQYmcvTfwrqGlzqaJPxY&usqp=CAE&s",
+      "snippet": "Workshop Coffee source, roast and brew, the best coffee possible.",
+      "about_this_result": {
+        "source": {
+          "description": "workshopcoffee.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6251853e2236e2b740ef87ad/images/d37ce9cacbf91311659ea97909008bcecbede7e22c64afece6602e30c3e6e442b31b904e7cc18d84349892a4bc321f14.png"
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OMizY1IGkAQJ:https://workshopcoffee.com/+&cd=25&hl=en&ct=clnk&gl=uk",
+      "related_pages_link": "https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://workshopcoffee.com/+Coffee"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "coffee types",
+      "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Coffee+types&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ1QJ6BAhNEAE"
+    },
+    {
+      "query": "coffee near me",
+      "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Coffee+near+me&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ1QJ6BAhMEAE"
+    },
+    {
+      "query": "best coffee",
+      "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Best+coffee&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ1QJ6BAhLEAE"
+    },
+    {
+      "query": "coffee shop",
+      "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Coffee+shop&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ1QJ6BAhJEAE"
+    },
+    {
+      "query": "coffee benefits",
+      "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Coffee+benefits&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ1QJ6BAhIEAE"
+    },
+    {
+      "query": "coffee - tesco",
+      "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Coffee+-+tesco&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ1QJ6BAhHEAE"
+    },
+    {
+      "query": "coffee nescafe",
+      "link": "https://www.google.co.uk/search?gl=uk&hl=en&q=Coffee+Nescafe&sa=X&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ1QJ6BAhPEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.co.uk/search?q=Coffee&gl=uk&hl=en&ei=QoVRYoCqB8PZytMP29eUoAc&start=10&sa=N&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ8NMDegQIAxBP",
+    "other_pages": {
+      "2": "https://www.google.co.uk/search?q=Coffee&gl=uk&hl=en&ei=QoVRYoCqB8PZytMP29eUoAc&start=10&sa=N&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ8tMDegQIAxA9",
+      "3": "https://www.google.co.uk/search?q=Coffee&gl=uk&hl=en&ei=QoVRYoCqB8PZytMP29eUoAc&start=20&sa=N&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ8tMDegQIAxA_",
+      "4": "https://www.google.co.uk/search?q=Coffee&gl=uk&hl=en&ei=QoVRYoCqB8PZytMP29eUoAc&start=30&sa=N&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ8tMDegQIAxBB",
+      "5": "https://www.google.co.uk/search?q=Coffee&gl=uk&hl=en&ei=QoVRYoCqB8PZytMP29eUoAc&start=40&sa=N&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ8tMDegQIAxBD",
+      "6": "https://www.google.co.uk/search?q=Coffee&gl=uk&hl=en&ei=QoVRYoCqB8PZytMP29eUoAc&start=50&sa=N&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ8tMDegQIAxBF",
+      "7": "https://www.google.co.uk/search?q=Coffee&gl=uk&hl=en&ei=QoVRYoCqB8PZytMP29eUoAc&start=60&sa=N&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ8tMDegQIAxBH",
+      "8": "https://www.google.co.uk/search?q=Coffee&gl=uk&hl=en&ei=QoVRYoCqB8PZytMP29eUoAc&start=70&sa=N&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ8tMDegQIAxBJ",
+      "9": "https://www.google.co.uk/search?q=Coffee&gl=uk&hl=en&ei=QoVRYoCqB8PZytMP29eUoAc&start=80&sa=N&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ8tMDegQIAxBL",
+      "10": "https://www.google.co.uk/search?q=Coffee&gl=uk&hl=en&ei=QoVRYoCqB8PZytMP29eUoAc&start=90&sa=N&ved=2ahUKEwiA0_C8hof3AhXDrHIEHdsrBXQQ8tMDegQIAxBN"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.co.uk&hl=en&location=United+Kingdom&q=Coffee&start=90"
+    }
+  }
+}
