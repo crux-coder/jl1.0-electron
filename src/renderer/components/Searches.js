@@ -137,7 +137,10 @@ export default function Searches(props) {
     let _errors = {};
     if (!searchQueries.length) _errors = { ..._errors, searchQueries: true, };
     if (!locations.length) _errors = { ..._errors, locations: true, };
-    if (!numberOfResults || numberOfResults < 10) _errors = { ..._errors, numberOfResults: true, };
+    if (!numberOfResults || numberOfResults < 10)
+      _errors = { ..._errors, numberOfResultsMin: true };
+    if (!numberOfResults || numberOfResults > 100)
+      _errors = { ..._errors, numberOfResultsMax: true };
 
     setErrors(_errors);
     if (Object.keys(_errors).length) return false;
@@ -201,6 +204,9 @@ export default function Searches(props) {
       .then(function (response) {
         callback(response.data, param, params);
         refreshUser();
+        if (index === 0) {
+          setValue(searchResults.length);
+        }
       })
       .catch(function (error) {
         refreshUser();

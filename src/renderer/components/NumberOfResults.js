@@ -43,8 +43,14 @@ export default function SearchQuery({ numberOfResults, setNumberOfResults, error
             fullWidth
             value={numberOfResults}
             onChange={handleChange}
-            error={errors.numberOfResults}
-            helperText={errors.numberOfResults && 'You must at least have 10 results.'}
+            error={errors.numberOfResultsMin || errors.numberOfResultsMax}
+            helperText={
+              errors.numberOfResultsMin
+                ? 'You must at least have 10 results.'
+                : errors.numberOfResultsMax
+                ? 'Maximum number of results is 100.'
+                : ''
+            }
             type="number"
             margin="dense"
             id="filled-basic"
