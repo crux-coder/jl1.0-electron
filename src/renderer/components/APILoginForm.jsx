@@ -18,8 +18,6 @@ export default function APILoginForm({ setUser }) {
       })
       .then(function (response) {
         localStorage.setItem('user', JSON.stringify(response.data));
-        if (!localStorage.getItem('savedSearches'))
-          localStorage.setItem('savedSearches', JSON.stringify([]));
         setUser(response.data);
       })
       .catch(function (error) {
